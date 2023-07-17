@@ -5,12 +5,36 @@
       "PackagePath": "staticwebassets\\StudyCentralV2.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\JackB\\Source\\Repos\\StudyCentralV2\\wwwroot\\css\\site.css",
-      "PackagePath": "staticwebassets\\css\\site.css"
+      "Id": "C:\\Users\\JackB\\Source\\Repos\\StudyCentralV2\\wwwroot\\css\\nav.css",
+      "PackagePath": "staticwebassets\\css\\nav.css"
+    },
+    {
+      "Id": "C:\\Users\\JackB\\Source\\Repos\\StudyCentralV2\\wwwroot\\css\\page.css",
+      "PackagePath": "staticwebassets\\css\\page.css"
     },
     {
       "Id": "C:\\Users\\JackB\\Source\\Repos\\StudyCentralV2\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\JackB\\Source\\Repos\\StudyCentralV2\\wwwroot\\img\\QuestionTheBible.png",
+      "PackagePath": "staticwebassets\\img\\QuestionTheBible.png"
+    },
+    {
+      "Id": "C:\\Users\\JackB\\Source\\Repos\\StudyCentralV2\\wwwroot\\img\\contact.png",
+      "PackagePath": "staticwebassets\\img\\contact.png"
+    },
+    {
+      "Id": "C:\\Users\\JackB\\Source\\Repos\\StudyCentralV2\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\JackB\\Source\\Repos\\StudyCentralV2\\wwwroot\\img\\studycreator.png",
+      "PackagePath": "staticwebassets\\img\\studycreator.png"
+    },
+    {
+      "Id": "C:\\Users\\JackB\\Source\\Repos\\StudyCentralV2\\wwwroot\\img\\underconstruction.png",
+      "PackagePath": "staticwebassets\\img\\underconstruction.png"
     },
     {
       "Id": "C:\\Users\\JackB\\Source\\Repos\\StudyCentralV2\\wwwroot\\js\\site.js",

@@ -1,0 +1,102 @@
+﻿@page
+@model StudyCentralV2.Pages.App.CreatorModel
+@{
+}
+
+<style>
+    .flex-container {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .item {
+        flex-basis: 100.00%;
+        /* border: 1px solid #FFA629; */
+    }
+
+    .item-1 {
+        flex-basis: 100%;
+        padding-top: 12%;
+    }
+
+    .item-2 {
+        flex-basis: 25%;
+    }
+
+    .item-3 {
+        flex-basis: 50.00%;
+        text-align: center;
+        padding-top: 5%;
+    }
+
+    .item-4 {
+        flex-basis: 25.00%;
+    }
+
+    .item-5 {
+        flex-basis: 25.00%;
+    }
+
+    .item-6 {
+        flex-basis: 50.00%;
+        margin-top: 2%;
+    }
+
+    .item-7 {
+        flex-basis: 25.00%;
+    }
+
+    input {
+        border-color: #FFA629;
+        border-width: 5px;
+        background-color: #0F1548;
+        color: #FFA629;
+        font-family: 'HURTMOLD_';
+        border-radius: 10px !important;
+        margin-top: 1%;
+        margin-right: 1%;
+    }
+
+    form {
+        text-align: center;
+        justify-content: center;
+        align-content: center;
+    }
+
+    #submitContactRequest {
+        position: relative;
+        font-size: 200%;
+        margin-bottom: 2%;
+    }
+</style>
+<!-- Flexbox (Content) -->
+<div class="flex-container">
+    <div class="item item-1">
+        <img class="img-logo" style="width: 35%;" src="~/img/studycreator.png" alt="Study Central" />
+    </div>
+    <div class="item item-2"></div>
+    <div class="item item-3">
+        <h1>How It Works?</h1>
+        <p>
+            Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+            Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
+            when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+        </p>
+    </div>
+    <div class="item item-4"></div>
+    <div class="item item-5"></div>
+    <div class="item item-6">
+        <form method="post">
+            <input type="text" id="studyName" name="studyName" placeholder="Study Name..." required>
+                <p>(A name used to identify the study)</p>
+            <input type="text" id="studyLength" name="studyLength" placeholder="Length..." required>
+                <p>(How long do you want the study to last, e.g. 4 days, 1 week, 2 months)</p>
+            <input type="text" id="studyCategory" name="studyCategory" placeholder="Category" required>
+                <p>(Category of the study: character, e.g. Jesus, book, e.g. Genesis, e.g. topic, e.g. Resurrection)</p>
+            <input type="text" id="studyType" name="studyType" placeholder="Type" required>
+                <p>(What type of study do you want: Single, duo, group)</p>
+            <input type="submit" id="submitCreatorVariables">
+        </form>
+    </div>
+    <div class="item item-7"></div>
+</div>

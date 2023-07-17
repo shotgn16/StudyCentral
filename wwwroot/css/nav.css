@@ -1,0 +1,38 @@
+﻿.pill-button {
+    padding-top: 20px;
+    padding: 10px 20px; /* Adjust the padding to your desired size */
+    border: none;
+    border-radius: 50px; /* Half of the button's height to create the pill shape */
+    background-color: #FFA629; /* Set the background color */
+    color: #0F1548; /* Set the text color */
+    font-size: 16px; /* Adjust the font size to your desired size */
+    cursor: pointer;
+    text-align: center;
+}
+
+.pill-button-outline {
+    padding-top: 20px;
+    padding: 10px 20px; /* Adjust the padding to your desired size */
+    border: none;
+    border-radius: 50px; /* Half of the button's height to create the pill shape */
+    background-color: #0F1548; /* Set the background color */
+    color: #FFA629; /* Set the text color */
+    outline-color: #FFA629;
+    outline-width: 4px;
+    outline-style: solid;
+    font-size: 16px; /* Adjust the font size to your desired size */
+    cursor: pointer;
+    text-align: center;
+}
+
+.navbar-brand {
+    color: #FFA629;
+}
+
+.form-label, form-control::placeholder {
+    color: #FFA629;
+}
+
+.form-control {
+    background-color: #0F1548;
+}

@@ -261,3 +261,14 @@ C:\Users\JackB\Source\Repos\StudyCentralV2\obj\Debug\net7.0\refint\StudyCentralV
 C:\Users\JackB\Source\Repos\StudyCentralV2\obj\Debug\net7.0\StudyCentralV2.pdb
 C:\Users\JackB\Source\Repos\StudyCentralV2\obj\Debug\net7.0\StudyCentralV2.genruntimeconfig.cache
 C:\Users\JackB\Source\Repos\StudyCentralV2\obj\Debug\net7.0\ref\StudyCentralV2.dll
+C:\Users\JackB\Source\Repos\StudyCentralV2\bin\Debug\net7.0\Google.Protobuf.dll
+C:\Users\JackB\Source\Repos\StudyCentralV2\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+C:\Users\JackB\Source\Repos\StudyCentralV2\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\JackB\Source\Repos\StudyCentralV2\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+C:\Users\JackB\Source\Repos\StudyCentralV2\bin\Debug\net7.0\MySql.Data.dll
+C:\Users\JackB\Source\Repos\StudyCentralV2\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+C:\Users\JackB\Source\Repos\StudyCentralV2\bin\Debug\net7.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\JackB\Source\Repos\StudyCentralV2\bin\Debug\net7.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\JackB\Source\Repos\StudyCentralV2\bin\Debug\net7.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\JackB\Source\Repos\StudyCentralV2\bin\Debug\net7.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\JackB\Source\Repos\StudyCentralV2\bin\Debug\net7.0\runtimes\win-x64\native\krbcc64.dll

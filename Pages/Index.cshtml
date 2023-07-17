@@ -3,8 +3,70 @@
 @{
     ViewData["Title"] = "Home page";
 }
+<style>
+    font-face {
+        font-family: 'Share Tech';
+    }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    .flex-container {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .item {
+        flex-basis: 33.33%;
+        /* border: 1px solid #FFA629; */
+        text-align: center;
+    }
+
+    .item-1 {
+        flex-basis: 100%;
+        padding-top: 12%;
+    }
+
+    .item-2 {
+        text-align: left;
+        padding-top: 5%;
+        padding-left: 10%;
+        flex-basis: 60.00%;
+    }
+
+    .item-3 {
+        flex-basis: 40.00%;
+    }
+
+    .item-4 {
+        flex-basis: 100.00%;
+    }
+
+    .item-5 {
+        flex-basis: 40.00%;
+    }
+
+    .item-6 {
+        text-align: right;
+        padding-top: 5%;
+        padding-right: 10%;
+        flex-basis: 60.00%;
+    }
+</style>
+<div class="flex-container">
+    <div class="item item-1">
+        <img class="img-logo" style="width: 35%;" src="~/img/logo.png" alt="Study Central" />
+    </div>
+    <div class="item item-2">
+        <h1>About Us</h1>
+        <P>
+            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+        </P>
+    </div>
+    <div class="item item-3"></div>
+    <div class="item item-4"></div>
+    <div class="item item-5"></div>
+    <div class="item item-6">
+        <h1>Our Mission</h1>
+        <P>
+            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+        </P>
+    </div>
 </div>
