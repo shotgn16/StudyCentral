@@ -74,6 +74,10 @@
             "MySql.Data": {
               "target": "Package",
               "version": "[8.0.33, )"
+            },
+            "System.Net.Http": {
+              "target": "Package",
+              "version": "[4.3.4, )"
             }
           },
           "imports": [
