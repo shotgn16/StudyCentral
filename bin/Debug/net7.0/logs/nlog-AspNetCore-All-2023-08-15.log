@@ -1,0 +1,9 @@
+2023-08-15 00:04:53.6716|0|INFO|StudyCentralV2.Program|Welcome to Study Central (Version 2)! |url: |action: 
+2023-08-15 00:04:53.7067|0|INFO|StudyCentralV2.Program|Designed & Built by Jack Barnard - 2023 |url: |action: 
+2023-08-15 00:11:50.6860|0|INFO|StudyCentralV2.Program|Welcome to Study Central (Version 2)! |url: |action: 
+2023-08-15 00:11:50.7117|0|INFO|StudyCentralV2.Program|Designed & Built by Jack Barnard - 2023 |url: |action: 
+2023-08-15 11:39:52.0509|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7000 |url: |action: 
+2023-08-15 11:39:52.0554|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5072 |url: |action: 
+2023-08-15 11:39:52.0554|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2023-08-15 11:39:52.0554|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2023-08-15 11:39:52.0554|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\JackB\Documents\StudyCentralV2 |url: |action: 

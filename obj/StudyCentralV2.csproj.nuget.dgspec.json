@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\JackB\\Source\\Repos\\StudyCentralV2\\StudyCentralV2.csproj": {}
+    "C:\\Users\\JackB\\Documents\\StudyCentralV2\\StudyCentralV2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\JackB\\Source\\Repos\\StudyCentralV2\\StudyCentralV2.csproj": {
+    "C:\\Users\\JackB\\Documents\\StudyCentralV2\\StudyCentralV2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JackB\\Source\\Repos\\StudyCentralV2\\StudyCentralV2.csproj",
+        "projectUniqueName": "C:\\Users\\JackB\\Documents\\StudyCentralV2\\StudyCentralV2.csproj",
         "projectName": "StudyCentralV2",
-        "projectPath": "C:\\Users\\JackB\\Source\\Repos\\StudyCentralV2\\StudyCentralV2.csproj",
+        "projectPath": "C:\\Users\\JackB\\Documents\\StudyCentralV2\\StudyCentralV2.csproj",
         "packagesPath": "C:\\Users\\JackB\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JackB\\Source\\Repos\\StudyCentralV2\\obj\\",
+        "outputPath": "C:\\Users\\JackB\\Documents\\StudyCentralV2\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\JackB\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -45,6 +40,14 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "Google.Apis.Auth.AspNetCore3": {
+              "target": "Package",
+              "version": "[1.61.0, )"
+            },
+            "GoogleApi": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
             "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
               "target": "Package",
               "version": "[7.0.7, )"
@@ -75,6 +78,30 @@
               "target": "Package",
               "version": "[8.0.33, )"
             },
+            "NLog": {
+              "target": "Package",
+              "version": "[5.2.3, )"
+            },
+            "NLog.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[5.3.3, )"
+            },
+            "NLog.Extensions.Logging": {
+              "target": "Package",
+              "version": "[5.3.3, )"
+            },
+            "NLog.Web": {
+              "target": "Package",
+              "version": "[5.3.3, )"
+            },
+            "NLog.Web.AspNetCore": {
+              "target": "Package",
+              "version": "[5.3.3, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
             "System.Net.Http": {
               "target": "Package",
               "version": "[4.3.4, )"
@@ -99,7 +126,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

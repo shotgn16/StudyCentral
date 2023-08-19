@@ -1,5 +1,9 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
+using NLog.Extensions.Logging;
+using NLog.Web;
+using StudyCentralV2.Components;
+using StudyCentralV2.Pages.App;
 
 namespace StudyCentralV2.Pages
 {
@@ -7,9 +11,12 @@ namespace StudyCentralV2.Pages
     {
         private readonly ILogger<IndexModel> _logger;
 
-        public IndexModel(ILogger<IndexModel> logger)
+        public IndexModel()
         {
-            _logger = logger;
+            using (var factory = LoggerFactory.Create(options => options.AddNLog()))
+            {
+                _logger = factory.CreateLogger<IndexModel>();
+            }
         }
 
         public void OnGet()

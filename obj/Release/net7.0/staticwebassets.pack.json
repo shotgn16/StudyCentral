@@ -1,0 +1,369 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\JackB\\Documents\\StudyCentralV2\\obj\\Release\\net7.0\\scopedcss\\projectbundle\\StudyCentralV2.bundle.scp.css",
+      "PackagePath": "staticwebassets\\StudyCentralV2.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\JackB\\Documents\\StudyCentralV2\\wwwroot\\css\\admin.css",
+      "PackagePath": "staticwebassets\\css\\admin.css"
+    },
+    {
+      "Id": "C:\\Users\\JackB\\Documents\\StudyCentralV2\\wwwroot\\css\\admin.min.css",
+      "PackagePath": "staticwebassets\\css\\admin.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JackB\\Documents\\StudyCentralV2\\wwwroot\\css\\nav.css",
+      "PackagePath": "staticwebassets\\css\\nav.css"
+    },
+    {
+      "Id": "C:\\Users\\JackB\\Documents\\StudyCentralV2\\wwwroot\\css\\page.css",
+      "PackagePath": "staticwebassets\\css\\page.css"
+    },
+    {
+      "Id": "C:\\Users\\JackB\\Documents\\StudyCentralV2\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\JackB\\Documents\\StudyCentralV2\\wwwroot\\img\\QuestionTheBible.png",
+      "PackagePath": "staticwebassets\\img\\QuestionTheBible.png"
+    },
+    {
+      "Id": "C:\\Users\\JackB\\Documents\\StudyCentralV2\\wwwroot\\img\\Verse.png",
+      "PackagePath": "staticwebassets\\img\\Verse.png"
+    },
+    {
+      "Id": "C:\\Users\\JackB\\Documents\\StudyCentralV2\\wwwroot\\img\\contact.png",
+      "PackagePath": "staticwebassets\\img\\contact.png"
+    },
+    {
+      "Id": "C:\\Users\\JackB\\Documents\\StudyCentralV2\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\JackB\\Documents\\StudyCentralV2\\wwwroot\\img\\studycreator.png",
+      "PackagePath": "staticwebassets\\img\\studycreator.png"
+    },
+    {
+      "Id": "C:\\Users\\JackB\\Documents\\StudyCentralV2\\wwwroot\\img\\underconstruction.png",
+      "PackagePath": "staticwebassets\\img\\underconstruction.png"
+    },
+    {
+      "Id": "C:\\Users\\JackB\\Documents\\StudyCentralV2\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\JackB\\Documents\\StudyCentralV2\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\JackB\\Documents\\StudyCentralV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\JackB\\Documents\\StudyCentralV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\JackB\\Documents\\StudyCentralV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JackB\\Documents\\StudyCentralV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\JackB\\Documents\\StudyCentralV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\JackB\\Documents\\StudyCentralV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\JackB\\Documents\\StudyCentralV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JackB\\Documents\\StudyCentralV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\JackB\\Documents\\StudyCentralV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\JackB\\Documents\\StudyCentralV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\JackB\\Documents\\StudyCentralV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JackB\\Documents\\StudyCentralV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\JackB\\Documents\\StudyCentralV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\JackB\\Documents\\StudyCentralV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\JackB\\Documents\\StudyCentralV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JackB\\Documents\\StudyCentralV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\JackB\\Documents\\StudyCentralV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\JackB\\Documents\\StudyCentralV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\JackB\\Documents\\StudyCentralV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JackB\\Documents\\StudyCentralV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\JackB\\Documents\\StudyCentralV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\JackB\\Documents\\StudyCentralV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\JackB\\Documents\\StudyCentralV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JackB\\Documents\\StudyCentralV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\JackB\\Documents\\StudyCentralV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\JackB\\Documents\\StudyCentralV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\JackB\\Documents\\StudyCentralV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JackB\\Documents\\StudyCentralV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\JackB\\Documents\\StudyCentralV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\JackB\\Documents\\StudyCentralV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\JackB\\Documents\\StudyCentralV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JackB\\Documents\\StudyCentralV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\JackB\\Documents\\StudyCentralV2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\JackB\\Documents\\StudyCentralV2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\JackB\\Documents\\StudyCentralV2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\JackB\\Documents\\StudyCentralV2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\JackB\\Documents\\StudyCentralV2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\JackB\\Documents\\StudyCentralV2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\JackB\\Documents\\StudyCentralV2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\JackB\\Documents\\StudyCentralV2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\JackB\\Documents\\StudyCentralV2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\JackB\\Documents\\StudyCentralV2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\JackB\\Documents\\StudyCentralV2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\JackB\\Documents\\StudyCentralV2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\JackB\\Documents\\StudyCentralV2\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\JackB\\Documents\\StudyCentralV2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\JackB\\Documents\\StudyCentralV2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\JackB\\Documents\\StudyCentralV2\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\JackB\\Documents\\StudyCentralV2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\JackB\\Documents\\StudyCentralV2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\JackB\\Documents\\StudyCentralV2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\JackB\\Documents\\StudyCentralV2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\JackB\\Documents\\StudyCentralV2\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\JackB\\Documents\\StudyCentralV2\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\JackB\\Documents\\StudyCentralV2\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\JackB\\Documents\\StudyCentralV2\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\JackB\\Documents\\StudyCentralV2\\wwwroot\\scass\\_aside.scss",
+      "PackagePath": "staticwebassets\\scass\\_aside.scss"
+    },
+    {
+      "Id": "C:\\Users\\JackB\\Documents\\StudyCentralV2\\wwwroot\\scass\\_card.scss",
+      "PackagePath": "staticwebassets\\scass\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\JackB\\Documents\\StudyCentralV2\\wwwroot\\scass\\_footer.scss",
+      "PackagePath": "staticwebassets\\scass\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\JackB\\Documents\\StudyCentralV2\\wwwroot\\scass\\_form.scss",
+      "PackagePath": "staticwebassets\\scass\\_form.scss"
+    },
+    {
+      "Id": "C:\\Users\\JackB\\Documents\\StudyCentralV2\\wwwroot\\scass\\_hero-bar.scss",
+      "PackagePath": "staticwebassets\\scass\\_hero-bar.scss"
+    },
+    {
+      "Id": "C:\\Users\\JackB\\Documents\\StudyCentralV2\\wwwroot\\scass\\_main-section.scss",
+      "PackagePath": "staticwebassets\\scass\\_main-section.scss"
+    },
+    {
+      "Id": "C:\\Users\\JackB\\Documents\\StudyCentralV2\\wwwroot\\scass\\_misc.scss",
+      "PackagePath": "staticwebassets\\scass\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\JackB\\Documents\\StudyCentralV2\\wwwroot\\scass\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scass\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\JackB\\Documents\\StudyCentralV2\\wwwroot\\scass\\_modal.scss",
+      "PackagePath": "staticwebassets\\scass\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\JackB\\Documents\\StudyCentralV2\\wwwroot\\scass\\_nav-bar.scss",
+      "PackagePath": "staticwebassets\\scass\\_nav-bar.scss"
+    },
+    {
+      "Id": "C:\\Users\\JackB\\Documents\\StudyCentralV2\\wwwroot\\scass\\_table.scss",
+      "PackagePath": "staticwebassets\\scass\\_table.scss"
+    },
+    {
+      "Id": "C:\\Users\\JackB\\Documents\\StudyCentralV2\\wwwroot\\scass\\_theme-default.scss",
+      "PackagePath": "staticwebassets\\scass\\_theme-default.scss"
+    },
+    {
+      "Id": "C:\\Users\\JackB\\Documents\\StudyCentralV2\\wwwroot\\scass\\_tiles.scss",
+      "PackagePath": "staticwebassets\\scass\\_tiles.scss"
+    },
+    {
+      "Id": "C:\\Users\\JackB\\Documents\\StudyCentralV2\\wwwroot\\scass\\_title-bar.scss",
+      "PackagePath": "staticwebassets\\scass\\_title-bar.scss"
+    },
+    {
+      "Id": "C:\\Users\\JackB\\Documents\\StudyCentralV2\\wwwroot\\scass\\libs\\_all.scss",
+      "PackagePath": "staticwebassets\\scass\\libs\\_all.scss"
+    },
+    {
+      "Id": "C:\\Users\\JackB\\Documents\\StudyCentralV2\\wwwroot\\scass\\libs\\_buefy-table-checkbox.scss",
+      "PackagePath": "staticwebassets\\scass\\libs\\_buefy-table-checkbox.scss"
+    },
+    {
+      "Id": "C:\\Users\\JackB\\Documents\\StudyCentralV2\\wwwroot\\scass\\main.scss",
+      "PackagePath": "staticwebassets\\scass\\main.scss"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.StudyCentralV2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.build.StudyCentralV2.props",
+      "PackagePath": "build\\StudyCentralV2.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.StudyCentralV2.props",
+      "PackagePath": "buildMultiTargeting\\StudyCentralV2.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildTransitive.StudyCentralV2.props",
+      "PackagePath": "buildTransitive\\StudyCentralV2.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,96 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Study Central</title>
+    <!-- Scripts and Frameworks -->
+
+    <!-- Favicon -->
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#603cba">
+    <meta name="theme-color" content="#ffffff">
+
+    <link rel="stylesheet" href="~/css/admin.min.css" asp-append-version="true" />
+</head>
+<body>
+    <header>
+        <nav id="navbar-main" class="navbar is-fixed-top">
+            <div class="navbar-brand">
+                <a class="navbar-item is-hidden-desktop jb-aside-mobile-toggle">
+                    <span class="icon"><i class="mdi mdi-forwardburger mdi-24px"></i></span>
+                </a>
+                <div class="navbar-item">
+                    <div class="control"><input placeholder="Search everywhere..." class="input"></div>
+                </div>
+            </div>
+            <div class="navbar-brand is-right">
+                <a class="navbar-item is-hidden-desktop jb-navbar-menu-toggle" data-target="navbar-menu">
+                    <span class="icon"><i class="mdi mdi-dots-vertical"></i></span>
+                </a>
+            </div>
+            <div class="navbar-menu fadeIn animated faster" id="navbar-menu">
+                <div class="navbar-end">
+                    <div class="navbar-item has-dropdown has-dropdown-with-icons has-divider has-user-avatar is-hoverable">
+                        <a class="navbar-link is-arrowless">
+                            <div class="is-user-avatar">
+                                <img src="https://avatars.dicebear.com/v2/initials/john-doe.svg" alt="John Doe">
+                            </div>
+                            <div class="is-user-name"><span>John Doe</span></div>
+                            <span class="icon"><i class="mdi mdi-chevron-down"></i></span>
+                        </a>
+                        <div class="navbar-dropdown">
+                            <a href="profile.html" class="navbar-item">
+                                <span class="icon"><i class="mdi mdi-account"></i></span>
+                                <span>My Profile</span>
+                            </a>
+                            <a class="navbar-item">
+                                <span class="icon"><i class="mdi mdi-settings"></i></span>
+                                <span>Settings</span>
+                            </a>
+                            <a class="navbar-item">
+                                <span class="icon"><i class="mdi mdi-email"></i></span>
+                                <span>Messages</span>
+                            </a>
+                            <hr class="navbar-divider">
+                            <a class="navbar-item">
+                                <span class="icon"><i class="mdi mdi-logout"></i></span>
+                                <span>Log Out</span>
+                            </a>
+                        </div>
+                    </div>
+                    <a href="https://justboil.me/bulma-admin-template/one-html" title="About" class="navbar-item has-divider is-desktop-icon-only">
+                        <span class="icon"><i class="mdi mdi-help-circle-outline"></i></span>
+                        <span>About</span>
+                    </a>
+                    <a title="Log out" class="navbar-item is-desktop-icon-only">
+                        <span class="icon"><i class="mdi mdi-logout"></i></span>
+                        <span>Log out</span>
+                    </a>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2023 - StudyCentralV2 - <a asp-area="" asp-page="/Privacy">Privacy</a>
+        </div>
+    </footer>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

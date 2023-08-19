@@ -1,0 +1,71 @@
+﻿@page
+@model StudyCentralV2.Pages.Assets.LoaderModel
+@{
+}
+<style>
+    .flex-container {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .item {
+        flex-basis: 100.00%;
+        /* border: 1px solid #FFA629; */
+        text-align: center;
+    }
+
+    .item-1 {
+        flex-basis: 100%;
+        padding: 5%;
+    }
+
+    #title {
+        font-size: 500%;
+    }
+
+    .item-2 {
+        display: flex;
+        justify-content: center;
+        flex-basis: 100.00%;
+        padding: 5%;
+    } 
+
+    .pulse-container {
+        width: 120px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .pulse-bubble {
+        width: 20px;
+        height: 20px;
+        border-radius: 50%;
+        background-color: #FFA629;
+    }
+
+    .pulse-bubble-1 {
+        animation: pulse .4s ease 0s infinite alternate;
+    }
+
+    .pulse-bubble-2 {
+        animation: pulse .4s ease .2s infinite alternate;
+    }
+
+    .pulse-bubble-3 {
+        animation: pulse .4s ease .4s infinite alternate;
+    }
+</style>
+
+<div class="flex-container">
+    <div class="item item-1"><h1 id="title">Loading...</h1></div>
+    <div class="item item-2">
+        <div class="spinner-box">
+            <div class="pulse-container">
+                <div class="pulse-bubble pulse-bubble-1"></div>
+                <div class="pulse-bubble pulse-bubble-2"></div>
+                <div class="pulse-bubble pulse-bubble-3"></div>
+            </div>
+        </div>
+    </div>
+</div>

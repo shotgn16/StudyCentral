@@ -1,0 +1,234 @@
+﻿@page
+@using StudyCentralV2.Components.Iterator.Logic;
+@model StudyCentralV2.Pages.App.VerseModel
+@{
+    ViewData["Title"] = "Verse Query";
+}
+<style>
+    .flex-container {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .item {
+        flex-basis: 100.00%;
+        /* border: 1px solid #FFA629; */
+    }
+
+    .item-1 {
+        flex-basis: 100%;
+        padding-top: 12%;
+    }
+
+    .item-2 {
+        flex-basis: 100%;
+        text-align: center;
+    }
+
+    .item-3 {
+        flex-basis: 100.00%;
+    }
+
+    input {
+        border-color: #FFA629;
+        border-width: 5px;
+        background-color: #0F1548;
+        color: #FFA629;
+        font-family: 'HURTMOLD_';
+        border-radius: 10px !important;
+    }
+
+    #searchQuery {
+        width: 70%;
+        margin: 2%;
+        margin-right: 1%;
+    }
+
+    #submitQuery {
+        margin: 2%;
+        margin-left: 1%;
+    }
+
+    input {
+        border-color: #FFA629;
+        border-width: 5px;
+        background-color: #0F1548;
+        color: #FFA629;
+        font-family: 'HURTMOLD_';
+        border-radius: 10px !important;
+        margin-top: 1%;
+        margin-right: 1%;
+    }
+
+    form {
+        text-align: center;
+        justify-content: center;
+        align-content: center;
+    }
+
+    checkbox {
+        border-color: #FFA629;
+        border-width: 5px;
+        background-color: #0F1548;
+        color: #FFA629;
+        border-radius: 10px !important;
+        margin-top: 1%;
+        margin-left: 1%;
+        margin-right: 1%;
+    }
+
+    table {
+        justify-content: center;
+        border-color: #FFA629;
+        border-width: 5px;
+        background-color: #0F1548;
+        color: #FFA629;
+        border-radius: 10px !important;
+        margin-top: 1%;
+        margin-right: 1%;
+        cellspacing: 20;
+    }
+
+    tr:hover {
+        background-color: #FFA629;
+        color: #0F1548;
+    }
+
+    td {
+        padding: 0 25px;
+    }
+
+</style>
+<!-- Flexbox (Content) -->
+<div class="flex-container">
+    <div class="item item-1">
+        <img class="img-logo" style="width: 35%;" src="~/img/Verse.png" alt="Study Central" />
+    </div>
+    <div class="item item-2">
+        <h1>How It Works?</h1>
+        <p>Are you struggling with in your faith?</p>
+        <p>Do you need some answers?</p>
+        <p>Prehaps you've simply stumbled upon this page and are wondering what's going on?</p><br>
+        <p>The intension with this page is to allow people to search for Bible Verse. You might be wandering across the internet in search of hope. Maybe your looking for answers, but don't have the strength or energy to spend hours searching? Or maybe your a pirate, searching for a hidden treasure, hidden a long time ago? (Ok, I admit that last one was a little to far fetched.. HAHA)</p>
+        <p><strong>Simply enter a keyword such as <em>'Courage'</em> and an external API will return a list of Bible verses related to courage.</strong></p>
+    </div>
+    <div class="item item-3">
+        <form method="post">
+            <label style="color:#FFA629;" for="Keyword">Please input your search query (Keyword or Phrase)</label><br />
+            <input type="text" id="Keyword" name="Keyword" placeholder="Keyword To Query..." required><br /><br />
+
+            <label style="color:#FFA629" for="NumVerses">How Many Verses?</label><br />
+            <input type="number" id="NumVerses" name="NumVerses" placeholder="0 for maximum number" required /><br /><br />
+
+            <label style="color:#FFA629;" for="Bible">Please Choose your Bible</label><br />
+            <select style="align-items: center;" class="input" id="Bible" name="Bible">
+
+                @{
+                    List<Components.VerseQuery.Model.Bibles> bibles = new List<Components.VerseQuery.Model.Bibles>();
+                    bibles = await VerseModel.GetBibles();
+                }
+
+                @if (bibles.Count == 0)
+                {
+                    <option>Error! Failed to load content...</option>
+                }
+
+                else
+                {
+                    foreach (var Item in bibles)
+                    {
+                        <option value="@Item.data[Iterator.Value].name">@Item.data[Iterator.Value].name</option>
+
+                        await Iterator.Iterate();
+                    }
+
+                    Iterator.Value = 0;
+                    Iterator.Increment = 0;
+                }
+
+            </select><br /><br />
+            <!-- <input type="checkbox" id="TranslateInput" name="TranslateInput" value="True">
+            <label style="color: #FFA629;" for="TranslateInput"> Do you want to translate the input to the associated language?</label><br>-->
+
+            <button type="submit" class="btn pill-button">Submit</button>
+        </form>
+
+    </div>
+    <div class="item item-4">
+
+        @if (HttpContext.Request.Method == "POST" && VerseModel.SearchQuery != null && VerseModel.BibleID != null)
+        {
+            //List<Components.VerseQuery.Model.Verses.Displayed> Verses = new List<Components.VerseQuery.Model.Verses.Displayed>();
+            //<a asp-controller="Verse" asp-action="SaveQuery" asp-route-Verses="@Verses">Save Query</a>
+
+            <table>
+                <caption>
+                    Bible Verses on <strong>'@VerseModel.SearchQuery'</strong>.
+                </caption>
+                <thead>
+                    <tr>
+                        <th scope="col">Reference</th>
+                        <th scope="col">Scripture</th>
+                    </tr>
+                </thead>
+                <tbody>
+
+                    @foreach (var Verse in await VerseModel.GetVerses())
+                    {
+                        <tr>
+                            <th scope="row">@Verse.reference</th>
+                            <td>@Verse.text</td>
+                        </tr>
+
+                        await Iterator.Iterate();
+                    }
+
+                </tbody>
+            </table>
+        }
+    </div>
+</div>
+
+<!-- Pop-Up ->
+
+<div id="popup-content">
+    <h2>Popup Content</h2>
+    <div id="error-messages" style="color: red;"></div>
+    <!-- Other content of the popup -->
+</div>
+
+<style>
+    #popup-content {
+        display: none;
+        position: fixed;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        border: 10px !important;
+        padding: 20px;
+        border-color: #FFA629;
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+    }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+    function showErrorPopup(errorMessage) {
+        // Set the error message content
+        $("#error-messages").text(errorMessage);
+
+        // Show the popup
+        $("#popup-content").show();
+    }
+
+    $(document).ready(function () {
+        $("#show-popup-button").click(function () {
+            // Hide any previous error messages
+            $("#error-messages").empty();
+
+            // Show the popup
+            $("#popup-content").show();
+        });
+    });
+</script>

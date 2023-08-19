@@ -1,0 +1,72 @@
+2023-08-14 12:29:57.6630|0|INFO|StudyCentralV2.Program|Welcome to Study Central (Version 2)! 
+2023-08-14 12:29:57.6813|0|INFO|StudyCentralV2.Program|Designed & Built by Jack Barnard - 2023 
+2023-08-14 12:31:28.8222|0|INFO|StudyCentralV2.Program|Welcome to Study Central (Version 2)! 
+2023-08-14 12:31:28.8410|0|INFO|StudyCentralV2.Program|Designed & Built by Jack Barnard - 2023 
+2023-08-14 12:32:14.3494|0|INFO|StudyCentralV2.Program|Welcome to Study Central (Version 2)! 
+2023-08-14 12:32:14.3823|0|INFO|StudyCentralV2.Program|Designed & Built by Jack Barnard - 2023 
+2023-08-14 12:36:38.7702|0|INFO|StudyCentralV2.Program|Welcome to Study Central (Version 2)! 
+2023-08-14 12:36:38.7702|0|INFO|StudyCentralV2.Program|Designed & Built by Jack Barnard - 2023 
+2023-08-14 23:19:18.6372|0|INFO|StudyCentralV2.Program|Welcome to Study Central (Version 2)! 
+2023-08-14 23:19:18.6799|0|INFO|StudyCentralV2.Program|Designed & Built by Jack Barnard - 2023 
+2023-08-14 23:20:10.1481|0|INFO|StudyCentralV2.Program|Welcome to Study Central (Version 2)! 
+2023-08-14 23:20:10.1926|0|INFO|StudyCentralV2.Program|Designed & Built by Jack Barnard - 2023 
+2023-08-14 23:20:10.3551|0|ERROR|StudyCentralV2.Program|Stopped program because of exception Microsoft.Extensions.Hosting.HostAbortedException: The host was aborted.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.ThrowHostAborted()
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at Microsoft.Extensions.Hosting.HostBuilder.ResolveHost(IServiceProvider serviceProvider, DiagnosticListener diagnosticListener)
+   at Microsoft.Extensions.Hosting.HostApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()
+   at StudyCentralV2.Program.Main(String[] args) in C:\Users\JackB\Documents\StudyCentralV2\Program.cs:line 40
+2023-08-14 23:20:29.5137|0|INFO|StudyCentralV2.Program|Welcome to Study Central (Version 2)! 
+2023-08-14 23:20:29.5343|0|INFO|StudyCentralV2.Program|Designed & Built by Jack Barnard - 2023 
+2023-08-14 23:20:29.7371|0|ERROR|StudyCentralV2.Program|Stopped program because of exception Microsoft.Extensions.Hosting.HostAbortedException: The host was aborted.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.ThrowHostAborted()
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at Microsoft.Extensions.Hosting.HostBuilder.ResolveHost(IServiceProvider serviceProvider, DiagnosticListener diagnosticListener)
+   at Microsoft.Extensions.Hosting.HostApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()
+   at StudyCentralV2.Program.Main(String[] args) in C:\Users\JackB\Documents\StudyCentralV2\Program.cs:line 40
+2023-08-14 23:25:11.3606|0|INFO|StudyCentralV2.Program|Welcome to Study Central (Version 2)! 
+2023-08-14 23:25:11.3855|0|INFO|StudyCentralV2.Program|Designed & Built by Jack Barnard - 2023 
+2023-08-14 23:25:33.8876|0|INFO|StudyCentralV2.Program|Welcome to Study Central (Version 2)! 
+2023-08-14 23:25:33.9020|0|INFO|StudyCentralV2.Program|Designed & Built by Jack Barnard - 2023 
+2023-08-14 23:25:34.0299|0|ERROR|StudyCentralV2.Program|Stopped program because of exception Microsoft.Extensions.Hosting.HostAbortedException: The host was aborted.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.ThrowHostAborted()
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at Microsoft.Extensions.Hosting.HostBuilder.ResolveHost(IServiceProvider serviceProvider, DiagnosticListener diagnosticListener)
+   at Microsoft.Extensions.Hosting.HostApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()
+   at StudyCentralV2.Program.Main(String[] args) in C:\Users\JackB\Documents\StudyCentralV2\Program.cs:line 40
+2023-08-14 23:25:55.0904|0|INFO|StudyCentralV2.Program|Welcome to Study Central (Version 2)! 
+2023-08-14 23:25:55.1112|0|INFO|StudyCentralV2.Program|Designed & Built by Jack Barnard - 2023 
+2023-08-14 23:25:55.2206|0|ERROR|StudyCentralV2.Program|Stopped program because of exception Microsoft.Extensions.Hosting.HostAbortedException: The host was aborted.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.ThrowHostAborted()
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at Microsoft.Extensions.Hosting.HostBuilder.ResolveHost(IServiceProvider serviceProvider, DiagnosticListener diagnosticListener)
+   at Microsoft.Extensions.Hosting.HostApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()
+   at StudyCentralV2.Program.Main(String[] args) in C:\Users\JackB\Documents\StudyCentralV2\Program.cs:line 40
+2023-08-14 23:27:02.7610|0|INFO|StudyCentralV2.Program|Welcome to Study Central (Version 2)! 
+2023-08-14 23:27:02.7809|0|INFO|StudyCentralV2.Program|Designed & Built by Jack Barnard - 2023 
+2023-08-14 23:27:02.9067|0|ERROR|StudyCentralV2.Program|Stopped program because of exception Microsoft.Extensions.Hosting.HostAbortedException: The host was aborted.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.ThrowHostAborted()
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at Microsoft.Extensions.Hosting.HostBuilder.ResolveHost(IServiceProvider serviceProvider, DiagnosticListener diagnosticListener)
+   at Microsoft.Extensions.Hosting.HostApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()
+   at StudyCentralV2.Program.Main(String[] args) in C:\Users\JackB\Documents\StudyCentralV2\Program.cs:line 40
+2023-08-14 23:28:09.6398|0|INFO|StudyCentralV2.Program|Welcome to Study Central (Version 2)! 
+2023-08-14 23:28:09.6645|0|INFO|StudyCentralV2.Program|Designed & Built by Jack Barnard - 2023 
+2023-08-14 23:28:09.7985|0|ERROR|StudyCentralV2.Program|Stopped program because of exception Microsoft.Extensions.Hosting.HostAbortedException: The host was aborted.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.ThrowHostAborted()
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at Microsoft.Extensions.Hosting.HostBuilder.ResolveHost(IServiceProvider serviceProvider, DiagnosticListener diagnosticListener)
+   at Microsoft.Extensions.Hosting.HostApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()
+   at StudyCentralV2.Program.Main(String[] args) in C:\Users\JackB\Documents\StudyCentralV2\Program.cs:line 40

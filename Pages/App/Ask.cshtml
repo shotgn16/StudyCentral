@@ -1,0 +1,88 @@
+﻿@page
+@model StudyCentralV2.Pages.App.AskModel
+@{
+    ViewData["Title"] = "Ask";
+}
+
+<style>
+    .flex-container {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .item {
+        flex-basis: 100.00%;
+        /* border: 1px solid #FFA629; */
+    }
+
+    .item-1 {
+        flex-basis: 100%;
+        padding-top: 12%;
+    }
+
+    .item-2 {
+        flex-basis: 60%;
+    }
+
+    .item-3 {
+        flex-basis: 60.00%;
+    }
+
+    .item-4 {
+        flex-basis: 40.00%;
+    }
+
+    .item-5 {
+        flex-basis: 100.00%;
+    }
+
+    .item-6 {
+        flex-basis: 45.00%;
+        text-align: right;
+        padding-right: 3%;
+    }
+
+    input {
+        border-color: #FFA629;
+        border-width: 5px;
+        background-color: #0F1548;
+        color: #FFA629;
+        font-family: 'HURTMOLD_';
+        border-radius: 10px !important;
+    }
+
+    #searchQuery {
+        width: 70%;
+        margin: 2%;
+        margin-right: 1%;
+    }
+
+    #submitQuery {
+        margin: 2%;
+        margin-left: 1%;
+    }
+</style>
+<!-- Flexbox (Content) -->
+<div class="flex-container">
+    <div class="item item-1">
+        <img class="img-logo" style="width: 35%;" src="~/img/QuestionTheBible.png" alt="Study Central" />
+    </div>
+    <div class="item item-2">
+        <h1>How It Works?</h1>
+        <p>Do you have a question? Did God put something on your heart that you are desperately in need of answers from?.. Well I hope I can be some help... This page provides a direct link with some of the best Christian websites I've known.</p>
+        <p>Once queries, google will filter your question through a few Bible based websites and return you some information that should help you answer your question.</p>
+        <p>Happy Studying :D</p>
+    </div>
+    <div class="item item-3">
+        <h1>Do you have questions? Ask them here...</h1>
+    </div>
+    <div class="item item-4">
+        <script async src="https://cse.google.com/cse.js?cx=b546ccbc83d2e40a4"></script>
+        <div class="gcse-searchbox"></div>
+    </div>
+    <div class="item item-5">
+        <div class="gcse-searchresults"></div>
+    </div>
+    <div class="item item-6">
+    </div>
+</div>

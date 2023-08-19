@@ -1,0 +1,1007 @@
+2023-08-15 00:04:53.6716|0|INFO|StudyCentralV2.Program|Welcome to Study Central (Version 2)! 
+2023-08-15 00:04:53.7067|0|INFO|StudyCentralV2.Program|Designed & Built by Jack Barnard - 2023 
+2023-08-15 00:11:50.6860|0|INFO|StudyCentralV2.Program|Welcome to Study Central (Version 2)! 
+2023-08-15 00:11:50.7117|0|INFO|StudyCentralV2.Program|Designed & Built by Jack Barnard - 2023 
+2023-08-15 11:39:51.7283|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/AccessDenied.cshtml'. 
+2023-08-15 11:39:51.7487|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/ConfirmEmail.cshtml'. 
+2023-08-15 11:39:51.7487|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/ConfirmEmailChange.cshtml'. 
+2023-08-15 11:39:51.7487|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/ExternalLogin.cshtml'. 
+2023-08-15 11:39:51.7487|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/ForgotPassword.cshtml'. 
+2023-08-15 11:39:51.7487|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/ForgotPasswordConfirmation.cshtml'. 
+2023-08-15 11:39:51.7487|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Lockout.cshtml'. 
+2023-08-15 11:39:51.7487|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Login.cshtml'. 
+2023-08-15 11:39:51.7487|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/LoginWith2fa.cshtml'. 
+2023-08-15 11:39:51.7487|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/LoginWithRecoveryCode.cshtml'. 
+2023-08-15 11:39:51.7487|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Logout.cshtml'. 
+2023-08-15 11:39:51.7487|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/ChangePassword.cshtml'. 
+2023-08-15 11:39:51.7487|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/DeletePersonalData.cshtml'. 
+2023-08-15 11:39:51.7487|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/Disable2fa.cshtml'. 
+2023-08-15 11:39:51.7487|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/DownloadPersonalData.cshtml'. 
+2023-08-15 11:39:51.7487|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/Email.cshtml'. 
+2023-08-15 11:39:51.7487|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/EnableAuthenticator.cshtml'. 
+2023-08-15 11:39:51.7487|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/ExternalLogins.cshtml'. 
+2023-08-15 11:39:51.7487|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/GenerateRecoveryCodes.cshtml'. 
+2023-08-15 11:39:51.7487|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/Index.cshtml'. 
+2023-08-15 11:39:51.7487|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/PersonalData.cshtml'. 
+2023-08-15 11:39:51.7487|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/ResetAuthenticator.cshtml'. 
+2023-08-15 11:39:51.7487|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/SetPassword.cshtml'. 
+2023-08-15 11:39:51.7487|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/ShowRecoveryCodes.cshtml'. 
+2023-08-15 11:39:51.7487|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/TwoFactorAuthentication.cshtml'. 
+2023-08-15 11:39:51.7487|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/_Layout.cshtml'. 
+2023-08-15 11:39:51.7487|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml'. 
+2023-08-15 11:39:51.7487|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/_StatusMessage.cshtml'. 
+2023-08-15 11:39:51.7487|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml'. 
+2023-08-15 11:39:51.7487|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Register.cshtml'. 
+2023-08-15 11:39:51.7487|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/RegisterConfirmation.cshtml'. 
+2023-08-15 11:39:51.7487|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/ResendEmailConfirmation.cshtml'. 
+2023-08-15 11:39:51.7487|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/ResetPassword.cshtml'. 
+2023-08-15 11:39:51.7487|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/ResetPasswordConfirmation.cshtml'. 
+2023-08-15 11:39:51.7487|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/_StatusMessage.cshtml'. 
+2023-08-15 11:39:51.7487|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/_ViewImports.cshtml'. 
+2023-08-15 11:39:51.7487|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Error.cshtml'. 
+2023-08-15 11:39:51.7487|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml'. 
+2023-08-15 11:39:51.7487|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/_ViewImports.cshtml'. 
+2023-08-15 11:39:51.7487|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/_ViewStart.cshtml'. 
+2023-08-15 11:39:51.7487|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Pages/Admin/Index.cshtml'. 
+2023-08-15 11:39:51.7487|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Pages/App/Ask.cshtml'. 
+2023-08-15 11:39:51.7487|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Pages/App/Breakdown.cshtml'. 
+2023-08-15 11:39:51.7487|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Pages/App/Creator.cshtml'. 
+2023-08-15 11:39:51.7487|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Pages/App/Verse.cshtml'. 
+2023-08-15 11:39:51.7487|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Pages/Assets/Loader.cshtml'. 
+2023-08-15 11:39:51.7487|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Pages/Error.cshtml'. 
+2023-08-15 11:39:51.7487|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Pages/Index.cshtml'. 
+2023-08-15 11:39:51.7487|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Pages/Privacy.cshtml'. 
+2023-08-15 11:39:51.7487|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Pages/Shared/_LoginPartial.cshtml'. 
+2023-08-15 11:39:51.7487|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Pages/Shared/_ValidationScriptsPartial.cshtml'. 
+2023-08-15 11:39:51.7487|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Pages/_ViewImports.cshtml'. 
+2023-08-15 11:39:51.7487|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Pages/_ViewStart.cshtml'. 
+2023-08-15 11:39:51.7487|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Pages/Shared/_Admin.cshtml'. 
+2023-08-15 11:39:51.7487|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Pages/Shared/_Layout.cshtml'. 
+2023-08-15 11:39:51.7487|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/AccessDenied.cshtml'. 
+2023-08-15 11:39:51.7487|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/ConfirmEmail.cshtml'. 
+2023-08-15 11:39:51.7487|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/ConfirmEmailChange.cshtml'. 
+2023-08-15 11:39:51.7487|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/ExternalLogin.cshtml'. 
+2023-08-15 11:39:51.7487|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/ForgotPassword.cshtml'. 
+2023-08-15 11:39:51.7487|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/ForgotPasswordConfirmation.cshtml'. 
+2023-08-15 11:39:51.7487|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Lockout.cshtml'. 
+2023-08-15 11:39:51.7487|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Login.cshtml'. 
+2023-08-15 11:39:51.7487|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/LoginWith2fa.cshtml'. 
+2023-08-15 11:39:51.7487|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/LoginWithRecoveryCode.cshtml'. 
+2023-08-15 11:39:51.7487|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Logout.cshtml'. 
+2023-08-15 11:39:51.7487|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/ChangePassword.cshtml'. 
+2023-08-15 11:39:51.7487|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/DeletePersonalData.cshtml'. 
+2023-08-15 11:39:51.7487|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/Disable2fa.cshtml'. 
+2023-08-15 11:39:51.7487|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/DownloadPersonalData.cshtml'. 
+2023-08-15 11:39:51.7487|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/Email.cshtml'. 
+2023-08-15 11:39:51.7487|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/EnableAuthenticator.cshtml'. 
+2023-08-15 11:39:51.7487|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/ExternalLogins.cshtml'. 
+2023-08-15 11:39:51.7487|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/GenerateRecoveryCodes.cshtml'. 
+2023-08-15 11:39:51.7487|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/Index.cshtml'. 
+2023-08-15 11:39:51.7487|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/PersonalData.cshtml'. 
+2023-08-15 11:39:51.7487|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/ResetAuthenticator.cshtml'. 
+2023-08-15 11:39:51.7487|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/SetPassword.cshtml'. 
+2023-08-15 11:39:51.7487|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/ShowRecoveryCodes.cshtml'. 
+2023-08-15 11:39:51.7487|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/TwoFactorAuthentication.cshtml'. 
+2023-08-15 11:39:51.7487|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/_Layout.cshtml'. 
+2023-08-15 11:39:51.7487|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml'. 
+2023-08-15 11:39:51.7487|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/_StatusMessage.cshtml'. 
+2023-08-15 11:39:51.7487|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml'. 
+2023-08-15 11:39:51.7487|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/_ViewStart.cshtml'. 
+2023-08-15 11:39:51.7487|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Register.cshtml'. 
+2023-08-15 11:39:51.7487|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/RegisterConfirmation.cshtml'. 
+2023-08-15 11:39:51.7487|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/ResendEmailConfirmation.cshtml'. 
+2023-08-15 11:39:51.7487|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/ResetPassword.cshtml'. 
+2023-08-15 11:39:51.7487|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/ResetPasswordConfirmation.cshtml'. 
+2023-08-15 11:39:51.7487|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/_StatusMessage.cshtml'. 
+2023-08-15 11:39:51.7487|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/_ViewImports.cshtml'. 
+2023-08-15 11:39:51.7487|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Error.cshtml'. 
+2023-08-15 11:39:51.7487|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/_Layout.cshtml'. 
+2023-08-15 11:39:51.7487|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml'. 
+2023-08-15 11:39:51.7487|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/_ViewImports.cshtml'. 
+2023-08-15 11:39:51.7487|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/_ViewStart.cshtml'. 
+2023-08-15 11:39:51.7581|12|DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory|Registered model binder providers, in the following order: Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider 
+2023-08-15 11:39:51.7851|63|INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'C:\Users\JackB\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2023-08-15 11:39:51.9293|1|DEBUG|Microsoft.Extensions.Hosting.Internal.Host|Hosting starting 
+2023-08-15 11:39:51.9293|37|DEBUG|Microsoft.AspNetCore.DataProtection.Repositories.FileSystemXmlRepository|Reading data from file 'C:\Users\JackB\AppData\Local\ASP.NET\DataProtection-Keys\key-87341f2d-3fb2-46a8-9c17-b1ee00647ea0.xml'. 
+2023-08-15 11:39:51.9293|18|DEBUG|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|Found key {87341f2d-3fb2-46a8-9c17-b1ee00647ea0}. 
+2023-08-15 11:39:51.9475|13|DEBUG|Microsoft.AspNetCore.DataProtection.KeyManagement.DefaultKeyResolver|Considering key {87341f2d-3fb2-46a8-9c17-b1ee00647ea0} with expiration date 2023-10-27 09:56:54Z as default key. 
+2023-08-15 11:39:51.9475|0|DEBUG|Microsoft.AspNetCore.DataProtection.TypeForwardingActivator|Forwarded activator type request from Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Version=7.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60 
+2023-08-15 11:39:51.9475|51|DEBUG|Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor|Decrypting secret element using Windows DPAPI. 
+2023-08-15 11:39:51.9475|0|DEBUG|Microsoft.AspNetCore.DataProtection.TypeForwardingActivator|Forwarded activator type request from Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=7.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60 
+2023-08-15 11:39:51.9475|4|DEBUG|Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.CngCbcAuthenticatedEncryptorFactory|Opening CNG algorithm 'AES' from provider '(null)' with chaining mode CBC. 
+2023-08-15 11:39:51.9475|3|DEBUG|Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.CngCbcAuthenticatedEncryptorFactory|Opening CNG algorithm 'SHA256' from provider '(null)' with HMAC. 
+2023-08-15 11:39:51.9475|2|DEBUG|Microsoft.AspNetCore.DataProtection.KeyManagement.KeyRingProvider|Using key {87341f2d-3fb2-46a8-9c17-b1ee00647ea0} as the default key. 
+2023-08-15 11:39:51.9475|65|DEBUG|Microsoft.AspNetCore.DataProtection.Internal.DataProtectionHostedService|Key ring with default key {87341f2d-3fb2-46a8-9c17-b1ee00647ea0} was loaded during application startup. 
+2023-08-15 11:39:52.0509|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7000 
+2023-08-15 11:39:52.0554|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5072 
+2023-08-15 11:39:52.0554|13|DEBUG|Microsoft.AspNetCore.Hosting.Diagnostics|Loaded hosting startup assembly StudyCentralV2 
+2023-08-15 11:39:52.0554|13|DEBUG|Microsoft.AspNetCore.Hosting.Diagnostics|Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh 
+2023-08-15 11:39:52.0554|13|DEBUG|Microsoft.AspNetCore.Hosting.Diagnostics|Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net 
+2023-08-15 11:39:52.0554|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2023-08-15 11:39:52.0554|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2023-08-15 11:39:52.0554|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\JackB\Documents\StudyCentralV2 
+2023-08-15 11:39:52.0554|2|DEBUG|Microsoft.Extensions.Hosting.Internal.Host|Hosting started 
+2023-08-15 11:39:52.0777|6|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets|Connection id "0HMSTFFQGN90P" received FIN. 
+2023-08-15 11:39:52.0777|39|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HMSTFFQGN90P" accepted. 
+2023-08-15 11:39:52.0777|1|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HMSTFFQGN90P" started. 
+2023-08-15 11:39:52.0974|1|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware|Failed to authenticate HTTPS connection. System.IO.IOException:  Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveBlobAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2023-08-15 11:39:52.1677|2|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HMSTFFQGN90P" stopped. 
+2023-08-15 11:39:52.1677|7|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets|Connection id "0HMSTFFQGN90P" sending FIN because: "The Socket transport's send loop completed gracefully." 
+2023-08-15 11:39:52.3343|39|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HMSTFFQGN90Q" accepted. 
+2023-08-15 11:39:52.3343|1|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HMSTFFQGN90Q" started. 
+2023-08-15 11:39:52.3679|3|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware|Connection 0HMSTFFQGN90Q established using the following protocol: Tls12 
+2023-08-15 11:39:52.3847|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending SETTINGS frame for stream ID 0 with length 24 and flags NONE. 
+2023-08-15 11:39:52.3847|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending WINDOW_UPDATE frame for stream ID 0 with length 4 and flags 0x0. 
+2023-08-15 11:39:52.3847|37|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" received SETTINGS frame for stream ID 0 with length 30 and flags NONE. 
+2023-08-15 11:39:52.3847|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending SETTINGS frame for stream ID 0 with length 0 and flags ACK. 
+2023-08-15 11:39:52.3847|37|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" received WINDOW_UPDATE frame for stream ID 0 with length 4 and flags 0x0. 
+2023-08-15 11:39:52.3847|37|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" received HEADERS frame for stream ID 1 with length 677 and flags END_STREAM, END_HEADERS, PRIORITY. 
+2023-08-15 11:39:52.3970|37|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" received SETTINGS frame for stream ID 0 with length 0 and flags ACK. 
+2023-08-15 11:39:52.3970|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7000/ - - 
+2023-08-15 11:39:52.4200|0|DEBUG|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|Wildcard detected, all requests with hosts will be allowed. 
+2023-08-15 11:39:52.4200|2|TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2023-08-15 11:39:52.4200|9|DEBUG|Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler|AuthenticationScheme: Identity.Application was not authenticated. 
+2023-08-15 11:39:52.4293|1|INFO|Microsoft.AspNetCore.HttpLogging.HttpLoggingMiddleware|Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Host: localhost:7000
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+Cookie: [Redacted]
+Upgrade-Insecure-Requests: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+DNT: 1
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-user: [Redacted]
+sec-fetch-dest: [Redacted] 
+2023-08-15 11:39:52.4293|4|DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path / does not match a supported file type 
+2023-08-15 11:39:52.4435|1001|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|1 candidate(s) found for the request path '/' 
+2023-08-15 11:39:52.4435|1005|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|Endpoint '/Index' with route pattern '' is valid for the request path '/' 
+2023-08-15 11:39:52.4435|1|DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request matched endpoint '/Index' 
+2023-08-15 11:39:52.4435|0|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint '/Index' 
+2023-08-15 11:39:52.4728|5|TRACE|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Located compiled view for view at path '/Pages/_ViewStart.cshtml'. 
+2023-08-15 11:39:52.4742|7|TRACE|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Could not find a file for view at path '/_ViewStart.cshtml'. 
+2023-08-15 11:39:52.4742|103|INFO|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Route matched with {page = "/Index", area = ""}. Executing page /Index 
+2023-08-15 11:39:52.4742|1|DEBUG|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Execution plan of authorization filters (in the following order): Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.AutoValidateAntiforgeryTokenAuthorizationFilter 
+2023-08-15 11:39:52.4742|1|DEBUG|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Execution plan of resource filters (in the following order): Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter 
+2023-08-15 11:39:52.4742|1|DEBUG|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000) 
+2023-08-15 11:39:52.4742|1|DEBUG|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Execution plan of exception filters (in the following order): None 
+2023-08-15 11:39:52.4742|1|DEBUG|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter 
+2023-08-15 11:39:52.4742|52|TRACE|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Authorization Filter: Before executing OnAuthorizationAsync on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.AutoValidateAntiforgeryTokenAuthorizationFilter. 
+2023-08-15 11:39:52.4742|53|TRACE|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Authorization Filter: After executing OnAuthorizationAsync on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.AutoValidateAntiforgeryTokenAuthorizationFilter. 
+2023-08-15 11:39:52.4742|52|TRACE|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Resource Filter: Before executing OnResourceExecuting on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2023-08-15 11:39:52.4742|53|TRACE|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Resource Filter: After executing OnResourceExecuting on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2023-08-15 11:39:52.4742|101|DEBUG|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Executing page model factory for page StudyCentralV2.Pages.Pages_Index (StudyCentralV2) 
+2023-08-15 11:39:52.4742|102|DEBUG|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Executed page model factory for page StudyCentralV2.Pages.Pages_Index (StudyCentralV2) 
+2023-08-15 11:39:52.4742|1|TRACE|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Page Filter: Before executing OnPageHandlerSelectionAsync on filter Microsoft.AspNetCore.Mvc.Filters.PageHandlerPageFilter. 
+2023-08-15 11:39:52.4742|2|TRACE|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Page Filter: After executing OnPageHandlerSelectionAsync on filter Microsoft.AspNetCore.Mvc.Filters.PageHandlerPageFilter. 
+2023-08-15 11:39:52.4742|1|TRACE|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Page Filter: Before executing OnPageHandlerSelected on filter Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.HandleOptionsRequestsPageFilter. 
+2023-08-15 11:39:52.4742|1|TRACE|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Page Filter: Before executing OnPageHandlerExecutionAsync on filter Microsoft.AspNetCore.Mvc.Filters.PageHandlerPageFilter. 
+2023-08-15 11:39:52.4742|1|TRACE|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Page Filter: Before executing OnPageHandlerExecuting on filter Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.HandleOptionsRequestsPageFilter. 
+2023-08-15 11:39:52.4742|2|TRACE|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Page Filter: After executing OnPageHandlerExecuting on filter Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.HandleOptionsRequestsPageFilter. 
+2023-08-15 11:39:52.4907|105|INFO|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Executing handler method StudyCentralV2.Pages.IndexModel.OnGet - ModelState is Valid 
+2023-08-15 11:39:52.4907|108|INFO|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Executed handler method OnGet, returned result . 
+2023-08-15 11:39:52.4907|107|INFO|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Executing an implicit handler method - ModelState is Valid 
+2023-08-15 11:39:52.4907|109|INFO|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Executed an implicit handler method, returned result Microsoft.AspNetCore.Mvc.RazorPages.PageResult. 
+2023-08-15 11:39:52.4907|1|TRACE|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Page Filter: Before executing OnPageHandlerExecuted on filter Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.HandleOptionsRequestsPageFilter. 
+2023-08-15 11:39:52.4907|2|TRACE|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Page Filter: After executing OnPageHandlerExecuted on filter Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.HandleOptionsRequestsPageFilter. 
+2023-08-15 11:39:52.4907|2|TRACE|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Page Filter: After executing OnPageHandlerExecutionAsync on filter Microsoft.AspNetCore.Mvc.Filters.PageHandlerPageFilter. 
+2023-08-15 11:39:52.4907|52|TRACE|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Result Filter: Before executing OnResultExecuting on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2023-08-15 11:39:52.4907|53|TRACE|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Result Filter: After executing OnResultExecuting on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2023-08-15 11:39:52.4907|5|TRACE|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Before executing action result Microsoft.AspNetCore.Mvc.RazorPages.PageResult. 
+2023-08-15 11:39:52.5116|1|DEBUG|Microsoft.AspNetCore.Mvc.Razor.RazorViewEngine|View lookup cache miss for view '_Layout' in controller '(null)'. 
+2023-08-15 11:39:52.5116|7|TRACE|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Could not find a file for view at path '/Pages/_Layout.cshtml'. 
+2023-08-15 11:39:52.5116|5|TRACE|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Located compiled view for view at path '/Pages/Shared/_Layout.cshtml'. 
+2023-08-15 11:39:52.5507|100|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints /Index for address (area=[],page=[/Index]) 
+2023-08-15 11:39:52.5565|102|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template  for /Index resulting in  and  
+2023-08-15 11:39:52.5565|105|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints /Index with result / 
+2023-08-15 11:39:52.5565|100|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints /Index for address (area=[],page=[/Index]) 
+2023-08-15 11:39:52.5565|102|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template  for /Index resulting in  and  
+2023-08-15 11:39:52.5565|105|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints /Index with result / 
+2023-08-15 11:39:52.5565|100|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints /App/Creator for address (area=[],page=[/App/Creator]) 
+2023-08-15 11:39:52.5565|102|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template App/Creator for /App/Creator resulting in /App/Creator and  
+2023-08-15 11:39:52.5565|105|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints /App/Creator with result /App/Creator 
+2023-08-15 11:39:52.5565|100|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints /App/Breakdown for address (area=[],page=[/App/Breakdown]) 
+2023-08-15 11:39:52.5565|102|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template App/Breakdown for /App/Breakdown resulting in /App/Breakdown and  
+2023-08-15 11:39:52.5565|105|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints /App/Breakdown with result /App/Breakdown 
+2023-08-15 11:39:52.5565|100|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints /App/Verse for address (area=[],page=[/App/Verse]) 
+2023-08-15 11:39:52.5565|102|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template App/Verse for /App/Verse resulting in /App/Verse and  
+2023-08-15 11:39:52.5565|105|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints /App/Verse with result /App/Verse 
+2023-08-15 11:39:52.5565|100|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints /App/Ask for address (area=[],page=[/App/Ask]) 
+2023-08-15 11:39:52.5565|102|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template App/Ask for /App/Ask resulting in /App/Ask and  
+2023-08-15 11:39:52.5565|105|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints /App/Ask with result /App/Ask 
+2023-08-15 11:39:52.5565|100|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints /Privacy for address (area=[],page=[/Privacy]) 
+2023-08-15 11:39:52.5565|102|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template Privacy for /Privacy resulting in /Privacy and  
+2023-08-15 11:39:52.5565|105|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints /Privacy with result /Privacy 
+2023-08-15 11:39:52.5565|1|DEBUG|Microsoft.AspNetCore.Mvc.Razor.RazorViewEngine|View lookup cache miss for view '_LoginPartial' in controller '(null)'. 
+2023-08-15 11:39:52.5565|7|TRACE|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Could not find a file for view at path '/Pages/_LoginPartial.cshtml'. 
+2023-08-15 11:39:52.5565|5|TRACE|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Located compiled view for view at path '/Pages/Shared/_LoginPartial.cshtml'. 
+2023-08-15 11:39:52.6604|10401|DEBUG|Microsoft.EntityFrameworkCore.Infrastructure|An 'IServiceProvider' was created for internal use by Entity Framework. 
+2023-08-15 11:39:52.6849|100|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints /Account/Register for address (area=[Identity],page=[/Account/Register]) 
+2023-08-15 11:39:52.6849|102|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template Identity/Account/Register for /Account/Register resulting in /Identity/Account/Register and  
+2023-08-15 11:39:52.6849|105|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints /Account/Register with result /Identity/Account/Register 
+2023-08-15 11:39:52.6849|100|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints /Account/Login for address (area=[Identity],page=[/Account/Login]) 
+2023-08-15 11:39:52.6849|102|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template Identity/Account/Login for /Account/Login resulting in /Identity/Account/Login and  
+2023-08-15 11:39:52.6849|105|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints /Account/Login with result /Identity/Account/Login 
+2023-08-15 11:39:52.6849|100|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints /Privacy for address (area=[],page=[/Privacy]) 
+2023-08-15 11:39:52.6849|102|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template Privacy for /Privacy resulting in /Privacy and  
+2023-08-15 11:39:52.6849|105|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints /Privacy with result /Privacy 
+2023-08-15 11:39:52.6967|1|DEBUG|Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware|Response markup is scheduled to include browser refresh script injection. 
+2023-08-15 11:39:52.6967|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending HEADERS frame for stream ID 1 with length 67 and flags END_HEADERS. 
+2023-08-15 11:39:52.7479|6|TRACE|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|After executing action result Microsoft.AspNetCore.Mvc.RazorPages.PageResult. 
+2023-08-15 11:39:52.7479|52|TRACE|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Result Filter: Before executing OnResultExecuted on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2023-08-15 11:39:52.7479|53|TRACE|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Result Filter: After executing OnResultExecuted on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2023-08-15 11:39:52.7479|52|TRACE|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Resource Filter: Before executing OnResourceExecuted on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2023-08-15 11:39:52.7479|53|TRACE|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Resource Filter: After executing OnResourceExecuted on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2023-08-15 11:39:52.7479|104|INFO|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Executed page /Index in 272.9325ms 
+2023-08-15 11:39:52.7479|1|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint '/Index' 
+2023-08-15 11:39:52.7479|2|INFO|Microsoft.AspNetCore.HttpLogging.HttpLoggingMiddleware|Response:
+StatusCode: 200
+Content-Type: text/html; charset=utf-8
+Date: Tue, 15 Aug 2023 10:39:51 GMT
+Server: Kestrel 
+2023-08-15 11:39:52.7585|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 1 with length 1024 and flags NONE. 
+2023-08-15 11:39:52.7585|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 1 with length 3072 and flags NONE. 
+2023-08-15 11:39:52.7585|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 1 with length 4096 and flags NONE. 
+2023-08-15 11:39:52.7585|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 1 with length 463 and flags NONE. 
+2023-08-15 11:39:52.7725|2|DEBUG|Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware|Response markup was updated to include browser refresh script injection. 
+2023-08-15 11:39:52.7725|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 1 with length 0 and flags END_STREAM. 
+2023-08-15 11:39:52.7725|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7000/ - - - 200 - text/html;+charset=utf-8 371.1192ms 
+2023-08-15 11:39:52.8578|37|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" received HEADERS frame for stream ID 3 with length 98 and flags END_STREAM, END_HEADERS, PRIORITY. 
+2023-08-15 11:39:52.8578|37|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" received HEADERS frame for stream ID 5 with length 60 and flags END_STREAM, END_HEADERS, PRIORITY. 
+2023-08-15 11:39:52.8578|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7000/_framework/aspnetcore-browser-refresh.js - - 
+2023-08-15 11:39:52.8578|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7000/_vs/browserLink - - 
+2023-08-15 11:39:52.8683|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending HEADERS frame for stream ID 3 with length 60 and flags END_HEADERS. 
+2023-08-15 11:39:52.8683|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 3 with length 12360 and flags NONE. 
+2023-08-15 11:39:52.8832|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 3 with length 0 and flags END_STREAM. 
+2023-08-15 11:39:52.8832|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7000/_framework/aspnetcore-browser-refresh.js - - - 200 12360 application/javascript;+charset=utf-8 22.2714ms 
+2023-08-15 11:39:52.8832|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending HEADERS frame for stream ID 5 with length 149 and flags END_HEADERS. 
+2023-08-15 11:39:52.8832|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 5 with length 9986 and flags NONE. 
+2023-08-15 11:39:52.8832|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 5 with length 10240 and flags NONE. 
+2023-08-15 11:39:52.8832|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 5 with length 10240 and flags NONE. 
+2023-08-15 11:39:52.8832|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 5 with length 10240 and flags NONE. 
+2023-08-15 11:39:52.8832|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 5 with length 10240 and flags NONE. 
+2023-08-15 11:39:52.8832|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 5 with length 10240 and flags NONE. 
+2023-08-15 11:39:52.8832|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 5 with length 10240 and flags NONE. 
+2023-08-15 11:39:52.8832|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 5 with length 10240 and flags NONE. 
+2023-08-15 11:39:52.8832|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 5 with length 10240 and flags NONE. 
+2023-08-15 11:39:52.8832|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 5 with length 10240 and flags NONE. 
+2023-08-15 11:39:52.8832|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 5 with length 10240 and flags NONE. 
+2023-08-15 11:39:52.8832|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 5 with length 10240 and flags NONE. 
+2023-08-15 11:39:52.8832|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 5 with length 10240 and flags NONE. 
+2023-08-15 11:39:52.8832|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 5 with length 10240 and flags NONE. 
+2023-08-15 11:39:52.8832|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 5 with length 10240 and flags NONE. 
+2023-08-15 11:39:52.8832|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 5 with length 160 and flags NONE. 
+2023-08-15 11:39:52.8832|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 5 with length 0 and flags END_STREAM. 
+2023-08-15 11:39:52.8832|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7000/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 30.5920ms 
+2023-08-15 11:39:52.9502|39|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HMSTFFQGN90R" accepted. 
+2023-08-15 11:39:52.9502|1|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HMSTFFQGN90R" started. 
+2023-08-15 11:39:52.9502|37|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" received HEADERS frame for stream ID 7 with length 93 and flags END_STREAM, END_HEADERS, PRIORITY. 
+2023-08-15 11:39:52.9502|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7000/favicon-32x32.png - - 
+2023-08-15 11:39:52.9502|2|TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2023-08-15 11:39:52.9502|9|DEBUG|Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler|AuthenticationScheme: Identity.Application was not authenticated. 
+2023-08-15 11:39:52.9502|1|INFO|Microsoft.AspNetCore.HttpLogging.HttpLoggingMiddleware|Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /favicon-32x32.png
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Host: localhost:7000
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+Cookie: [Redacted]
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted] 
+2023-08-15 11:39:52.9502|5|DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path /favicon-32x32.png does not match an existing file 
+2023-08-15 11:39:52.9502|3|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware|Connection 0HMSTFFQGN90R established using the following protocol: Tls12 
+2023-08-15 11:39:52.9502|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90R" sending SETTINGS frame for stream ID 0 with length 24 and flags NONE. 
+2023-08-15 11:39:52.9502|1000|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|No candidates found for the request path '/favicon-32x32.png' 
+2023-08-15 11:39:52.9502|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90R" sending WINDOW_UPDATE frame for stream ID 0 with length 4 and flags 0x0. 
+2023-08-15 11:39:52.9502|37|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90R" received SETTINGS frame for stream ID 0 with length 30 and flags NONE. 
+2023-08-15 11:39:52.9502|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90R" sending SETTINGS frame for stream ID 0 with length 0 and flags ACK. 
+2023-08-15 11:39:52.9502|37|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90R" received WINDOW_UPDATE frame for stream ID 0 with length 4 and flags 0x0. 
+2023-08-15 11:39:52.9502|2|DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request did not match any endpoints 
+2023-08-15 11:39:52.9502|37|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90R" received HEADERS frame for stream ID 1 with length 350 and flags END_STREAM, END_HEADERS, PRIORITY. 
+2023-08-15 11:39:52.9502|37|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90R" received SETTINGS frame for stream ID 0 with length 0 and flags ACK. 
+2023-08-15 11:39:52.9502|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7000/site.webmanifest - - 
+2023-08-15 11:39:52.9502|2|INFO|Microsoft.AspNetCore.HttpLogging.HttpLoggingMiddleware|Response:
+StatusCode: 404 
+2023-08-15 11:39:52.9578|2|TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2023-08-15 11:39:52.9578|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending HEADERS frame for stream ID 7 with length 7 and flags END_STREAM, END_HEADERS. 
+2023-08-15 11:39:52.9578|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7000/favicon-32x32.png - - - 404 0 - 6.6996ms 
+2023-08-15 11:39:52.9578|9|DEBUG|Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler|AuthenticationScheme: Identity.Application was not authenticated. 
+2023-08-15 11:39:52.9578|1|INFO|Microsoft.AspNetCore.HttpLogging.HttpLoggingMiddleware|Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /site.webmanifest
+Accept: */*
+Host: localhost:7000
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted] 
+2023-08-15 11:39:52.9578|5|DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path /site.webmanifest does not match an existing file 
+2023-08-15 11:39:52.9578|1000|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|No candidates found for the request path '/site.webmanifest' 
+2023-08-15 11:39:52.9578|2|DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request did not match any endpoints 
+2023-08-15 11:39:52.9578|2|INFO|Microsoft.AspNetCore.HttpLogging.HttpLoggingMiddleware|Response:
+StatusCode: 404 
+2023-08-15 11:39:52.9578|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7000/site.webmanifest - - - 404 0 - 4.2407ms 
+2023-08-15 11:39:52.9578|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90R" sending HEADERS frame for stream ID 1 with length 45 and flags END_STREAM, END_HEADERS. 
+2023-08-15 11:39:52.9578|37|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" received HEADERS frame for stream ID 9 with length 37 and flags END_STREAM, END_HEADERS, PRIORITY. 
+2023-08-15 11:39:52.9578|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7000/favicon-16x16.png - - 
+2023-08-15 11:39:52.9578|2|TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2023-08-15 11:39:52.9578|9|DEBUG|Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler|AuthenticationScheme: Identity.Application was not authenticated. 
+2023-08-15 11:39:52.9578|1|INFO|Microsoft.AspNetCore.HttpLogging.HttpLoggingMiddleware|Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /favicon-16x16.png
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Host: localhost:7000
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+Cookie: [Redacted]
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted] 
+2023-08-15 11:39:52.9578|5|DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path /favicon-16x16.png does not match an existing file 
+2023-08-15 11:39:52.9578|1000|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|No candidates found for the request path '/favicon-16x16.png' 
+2023-08-15 11:39:52.9578|2|DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request did not match any endpoints 
+2023-08-15 11:39:52.9578|2|INFO|Microsoft.AspNetCore.HttpLogging.HttpLoggingMiddleware|Response:
+StatusCode: 404 
+2023-08-15 11:39:52.9578|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7000/favicon-16x16.png - - - 404 0 - 0.6011ms 
+2023-08-15 11:39:52.9578|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending HEADERS frame for stream ID 9 with length 7 and flags END_STREAM, END_HEADERS. 
+2023-08-15 11:39:56.7096|37|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" received HEADERS frame for stream ID 11 with length 32 and flags END_STREAM, END_HEADERS, PRIORITY. 
+2023-08-15 11:39:56.7096|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7000/App/Ask - - 
+2023-08-15 11:39:56.7096|2|TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2023-08-15 11:39:56.7096|9|DEBUG|Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler|AuthenticationScheme: Identity.Application was not authenticated. 
+2023-08-15 11:39:56.7096|1|INFO|Microsoft.AspNetCore.HttpLogging.HttpLoggingMiddleware|Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /App/Ask
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Host: localhost:7000
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+Cookie: [Redacted]
+Referer: [Redacted]
+Upgrade-Insecure-Requests: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+DNT: 1
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-user: [Redacted]
+sec-fetch-dest: [Redacted] 
+2023-08-15 11:39:56.7096|4|DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path /App/Ask does not match a supported file type 
+2023-08-15 11:39:56.7096|1001|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|1 candidate(s) found for the request path '/App/Ask' 
+2023-08-15 11:39:56.7096|1005|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|Endpoint '/App/Ask' with route pattern 'App/Ask' is valid for the request path '/App/Ask' 
+2023-08-15 11:39:56.7096|1|DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request matched endpoint '/App/Ask' 
+2023-08-15 11:39:56.7096|0|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint '/App/Ask' 
+2023-08-15 11:39:56.7096|7|TRACE|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Could not find a file for view at path '/Pages/App/_ViewStart.cshtml'. 
+2023-08-15 11:39:56.7096|5|TRACE|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Located compiled view for view at path '/Pages/_ViewStart.cshtml'. 
+2023-08-15 11:39:56.7096|7|TRACE|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Could not find a file for view at path '/_ViewStart.cshtml'. 
+2023-08-15 11:39:56.7096|103|INFO|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Route matched with {page = "/App/Ask", area = ""}. Executing page /App/Ask 
+2023-08-15 11:39:56.7096|1|DEBUG|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Execution plan of authorization filters (in the following order): Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.AutoValidateAntiforgeryTokenAuthorizationFilter 
+2023-08-15 11:39:56.7096|1|DEBUG|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Execution plan of resource filters (in the following order): Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter 
+2023-08-15 11:39:56.7096|1|DEBUG|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000) 
+2023-08-15 11:39:56.7096|1|DEBUG|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Execution plan of exception filters (in the following order): None 
+2023-08-15 11:39:56.7096|1|DEBUG|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter 
+2023-08-15 11:39:56.7096|52|TRACE|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Authorization Filter: Before executing OnAuthorizationAsync on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.AutoValidateAntiforgeryTokenAuthorizationFilter. 
+2023-08-15 11:39:56.7096|53|TRACE|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Authorization Filter: After executing OnAuthorizationAsync on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.AutoValidateAntiforgeryTokenAuthorizationFilter. 
+2023-08-15 11:39:56.7096|52|TRACE|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Resource Filter: Before executing OnResourceExecuting on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2023-08-15 11:39:56.7096|53|TRACE|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Resource Filter: After executing OnResourceExecuting on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2023-08-15 11:39:56.7096|101|DEBUG|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Executing page model factory for page StudyCentralV2.Pages.App.Pages_App_Ask (StudyCentralV2) 
+2023-08-15 11:39:56.7096|102|DEBUG|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Executed page model factory for page StudyCentralV2.Pages.App.Pages_App_Ask (StudyCentralV2) 
+2023-08-15 11:39:56.7096|1|TRACE|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Page Filter: Before executing OnPageHandlerSelectionAsync on filter Microsoft.AspNetCore.Mvc.Filters.PageHandlerPageFilter. 
+2023-08-15 11:39:56.7096|2|TRACE|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Page Filter: After executing OnPageHandlerSelectionAsync on filter Microsoft.AspNetCore.Mvc.Filters.PageHandlerPageFilter. 
+2023-08-15 11:39:56.7096|1|TRACE|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Page Filter: Before executing OnPageHandlerSelected on filter Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.HandleOptionsRequestsPageFilter. 
+2023-08-15 11:39:56.7096|1|TRACE|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Page Filter: Before executing OnPageHandlerExecutionAsync on filter Microsoft.AspNetCore.Mvc.Filters.PageHandlerPageFilter. 
+2023-08-15 11:39:56.7096|1|TRACE|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Page Filter: Before executing OnPageHandlerExecuting on filter Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.HandleOptionsRequestsPageFilter. 
+2023-08-15 11:39:56.7096|2|TRACE|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Page Filter: After executing OnPageHandlerExecuting on filter Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.HandleOptionsRequestsPageFilter. 
+2023-08-15 11:39:56.7096|105|INFO|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Executing handler method StudyCentralV2.Pages.App.AskModel.OnGet - ModelState is Valid 
+2023-08-15 11:39:56.7096|108|INFO|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Executed handler method OnGet, returned result . 
+2023-08-15 11:39:56.7096|107|INFO|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Executing an implicit handler method - ModelState is Valid 
+2023-08-15 11:39:56.7096|109|INFO|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Executed an implicit handler method, returned result Microsoft.AspNetCore.Mvc.RazorPages.PageResult. 
+2023-08-15 11:39:56.7096|1|TRACE|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Page Filter: Before executing OnPageHandlerExecuted on filter Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.HandleOptionsRequestsPageFilter. 
+2023-08-15 11:39:56.7096|2|TRACE|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Page Filter: After executing OnPageHandlerExecuted on filter Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.HandleOptionsRequestsPageFilter. 
+2023-08-15 11:39:56.7096|2|TRACE|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Page Filter: After executing OnPageHandlerExecutionAsync on filter Microsoft.AspNetCore.Mvc.Filters.PageHandlerPageFilter. 
+2023-08-15 11:39:56.7096|52|TRACE|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Result Filter: Before executing OnResultExecuting on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2023-08-15 11:39:56.7096|53|TRACE|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Result Filter: After executing OnResultExecuting on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2023-08-15 11:39:56.7096|5|TRACE|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Before executing action result Microsoft.AspNetCore.Mvc.RazorPages.PageResult. 
+2023-08-15 11:39:56.7096|1|DEBUG|Microsoft.AspNetCore.Mvc.Razor.RazorViewEngine|View lookup cache miss for view '_Layout' in controller '(null)'. 
+2023-08-15 11:39:56.7096|7|TRACE|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Could not find a file for view at path '/Pages/App/_Layout.cshtml'. 
+2023-08-15 11:39:56.7096|7|TRACE|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Could not find a file for view at path '/Pages/_Layout.cshtml'. 
+2023-08-15 11:39:56.7096|5|TRACE|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Located compiled view for view at path '/Pages/Shared/_Layout.cshtml'. 
+2023-08-15 11:39:56.7096|100|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints /Index for address (area=[],page=[/Index]) 
+2023-08-15 11:39:56.7096|102|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template  for /Index resulting in  and  
+2023-08-15 11:39:56.7096|105|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints /Index with result / 
+2023-08-15 11:39:56.7096|100|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints /Index for address (area=[],page=[/Index]) 
+2023-08-15 11:39:56.7096|102|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template  for /Index resulting in  and  
+2023-08-15 11:39:56.7096|105|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints /Index with result / 
+2023-08-15 11:39:56.7096|100|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints /App/Creator for address (area=[],page=[/App/Creator]) 
+2023-08-15 11:39:56.7096|102|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template App/Creator for /App/Creator resulting in /App/Creator and  
+2023-08-15 11:39:56.7096|105|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints /App/Creator with result /App/Creator 
+2023-08-15 11:39:56.7096|100|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints /App/Breakdown for address (area=[],page=[/App/Breakdown]) 
+2023-08-15 11:39:56.7096|102|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template App/Breakdown for /App/Breakdown resulting in /App/Breakdown and  
+2023-08-15 11:39:56.7096|105|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints /App/Breakdown with result /App/Breakdown 
+2023-08-15 11:39:56.7096|100|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints /App/Verse for address (area=[],page=[/App/Verse]) 
+2023-08-15 11:39:56.7096|102|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template App/Verse for /App/Verse resulting in /App/Verse and  
+2023-08-15 11:39:56.7096|105|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints /App/Verse with result /App/Verse 
+2023-08-15 11:39:56.7096|100|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints /App/Ask for address (area=[],page=[/App/Ask]) 
+2023-08-15 11:39:56.7096|102|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template App/Ask for /App/Ask resulting in /App/Ask and  
+2023-08-15 11:39:56.7096|105|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints /App/Ask with result /App/Ask 
+2023-08-15 11:39:56.7096|100|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints /Privacy for address (area=[],page=[/Privacy]) 
+2023-08-15 11:39:56.7096|102|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template Privacy for /Privacy resulting in /Privacy and  
+2023-08-15 11:39:56.7096|105|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints /Privacy with result /Privacy 
+2023-08-15 11:39:56.7096|1|DEBUG|Microsoft.AspNetCore.Mvc.Razor.RazorViewEngine|View lookup cache miss for view '_LoginPartial' in controller '(null)'. 
+2023-08-15 11:39:56.7096|7|TRACE|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Could not find a file for view at path '/Pages/App/_LoginPartial.cshtml'. 
+2023-08-15 11:39:56.7096|7|TRACE|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Could not find a file for view at path '/Pages/_LoginPartial.cshtml'. 
+2023-08-15 11:39:56.7096|5|TRACE|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Located compiled view for view at path '/Pages/Shared/_LoginPartial.cshtml'. 
+2023-08-15 11:39:56.7284|100|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints /Account/Register for address (area=[Identity],page=[/Account/Register]) 
+2023-08-15 11:39:56.7284|102|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template Identity/Account/Register for /Account/Register resulting in /Identity/Account/Register and  
+2023-08-15 11:39:56.7284|105|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints /Account/Register with result /Identity/Account/Register 
+2023-08-15 11:39:56.7284|100|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints /Account/Login for address (area=[Identity],page=[/Account/Login]) 
+2023-08-15 11:39:56.7284|102|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template Identity/Account/Login for /Account/Login resulting in /Identity/Account/Login and  
+2023-08-15 11:39:56.7284|105|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints /Account/Login with result /Identity/Account/Login 
+2023-08-15 11:39:56.7284|100|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints /Privacy for address (area=[],page=[/Privacy]) 
+2023-08-15 11:39:56.7284|102|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template Privacy for /Privacy resulting in /Privacy and  
+2023-08-15 11:39:56.7284|105|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints /Privacy with result /Privacy 
+2023-08-15 11:39:56.7284|1|DEBUG|Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware|Response markup is scheduled to include browser refresh script injection. 
+2023-08-15 11:39:56.7284|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending HEADERS frame for stream ID 11 with length 34 and flags END_HEADERS. 
+2023-08-15 11:39:56.7284|6|TRACE|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|After executing action result Microsoft.AspNetCore.Mvc.RazorPages.PageResult. 
+2023-08-15 11:39:56.7284|52|TRACE|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Result Filter: Before executing OnResultExecuted on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2023-08-15 11:39:56.7284|53|TRACE|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Result Filter: After executing OnResultExecuted on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2023-08-15 11:39:56.7284|52|TRACE|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Resource Filter: Before executing OnResourceExecuted on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2023-08-15 11:39:56.7284|53|TRACE|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Resource Filter: After executing OnResourceExecuted on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2023-08-15 11:39:56.7284|104|INFO|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Executed page /App/Ask in 19.0404ms 
+2023-08-15 11:39:56.7284|1|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint '/App/Ask' 
+2023-08-15 11:39:56.7284|2|INFO|Microsoft.AspNetCore.HttpLogging.HttpLoggingMiddleware|Response:
+StatusCode: 200
+Content-Type: text/html; charset=utf-8
+Date: Tue, 15 Aug 2023 10:39:56 GMT
+Server: Kestrel 
+2023-08-15 11:39:56.7284|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 11 with length 4096 and flags NONE. 
+2023-08-15 11:39:56.7284|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 11 with length 2048 and flags NONE. 
+2023-08-15 11:39:56.7389|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 11 with length 2048 and flags NONE. 
+2023-08-15 11:39:56.7389|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 11 with length 335 and flags NONE. 
+2023-08-15 11:39:56.7389|2|DEBUG|Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware|Response markup was updated to include browser refresh script injection. 
+2023-08-15 11:39:56.7389|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 11 with length 0 and flags END_STREAM. 
+2023-08-15 11:39:56.7389|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7000/App/Ask - - - 200 - text/html;+charset=utf-8 28.8176ms 
+2023-08-15 11:39:56.7389|37|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" received HEADERS frame for stream ID 13 with length 65 and flags END_STREAM, END_HEADERS, PRIORITY. 
+2023-08-15 11:39:56.7389|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7000/img/QuestionTheBible.png - - 
+2023-08-15 11:39:56.7389|37|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" received HEADERS frame for stream ID 15 with length 54 and flags END_STREAM, END_HEADERS, PRIORITY. 
+2023-08-15 11:39:56.7389|2|TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2023-08-15 11:39:56.7389|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7000/_framework/aspnetcore-browser-refresh.js - - 
+2023-08-15 11:39:56.7389|9|DEBUG|Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler|AuthenticationScheme: Identity.Application was not authenticated. 
+2023-08-15 11:39:56.7389|1|INFO|Microsoft.AspNetCore.HttpLogging.HttpLoggingMiddleware|Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /img/QuestionTheBible.png
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Host: localhost:7000
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+Cookie: [Redacted]
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted] 
+2023-08-15 11:39:56.7389|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending HEADERS frame for stream ID 15 with length 13 and flags END_HEADERS. 
+2023-08-15 11:39:56.7389|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 15 with length 12360 and flags NONE. 
+2023-08-15 11:39:56.7389|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 15 with length 0 and flags END_STREAM. 
+2023-08-15 11:39:56.7389|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7000/_framework/aspnetcore-browser-refresh.js - - - 200 12360 application/javascript;+charset=utf-8 1.5373ms 
+2023-08-15 11:39:56.7389|0|TRACE|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Range header's value is empty. 
+2023-08-15 11:39:56.7566|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending HEADERS frame for stream ID 13 with length 79 and flags END_HEADERS. 
+2023-08-15 11:39:56.7566|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 13 with length 16384 and flags NONE. 
+2023-08-15 11:39:56.7566|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 13 with length 16384 and flags NONE. 
+2023-08-15 11:39:56.7566|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 13 with length 3978 and flags NONE. 
+2023-08-15 11:39:56.7566|2|INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/img/QuestionTheBible.png'. Physical path: 'C:\Users\JackB\Documents\StudyCentralV2\wwwroot\img\QuestionTheBible.png' 
+2023-08-15 11:39:56.7566|2|INFO|Microsoft.AspNetCore.HttpLogging.HttpLoggingMiddleware|Response:
+StatusCode: 200
+Content-Type: image/png
+Date: Tue, 15 Aug 2023 10:39:56 GMT
+Server: Kestrel
+Accept-Ranges: bytes
+ETag: [Redacted]
+Last-Modified: Sat, 15 Jul 2023 13:18:52 GMT
+Content-Length: 36746 
+2023-08-15 11:39:56.7566|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7000/img/QuestionTheBible.png - - - 200 36746 image/png 14.9974ms 
+2023-08-15 11:39:56.7566|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 13 with length 0 and flags END_STREAM. 
+2023-08-15 11:39:56.7734|37|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" received HEADERS frame for stream ID 17 with length 60 and flags END_STREAM, END_HEADERS, PRIORITY. 
+2023-08-15 11:39:56.7734|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7000/_vs/browserLink - - 
+2023-08-15 11:39:56.7734|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending HEADERS frame for stream ID 17 with length 66 and flags END_HEADERS. 
+2023-08-15 11:39:56.7734|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 17 with length 9986 and flags NONE. 
+2023-08-15 11:39:56.7734|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 17 with length 10240 and flags NONE. 
+2023-08-15 11:39:56.7734|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 17 with length 10240 and flags NONE. 
+2023-08-15 11:39:56.7862|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 17 with length 10240 and flags NONE. 
+2023-08-15 11:39:56.7862|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 17 with length 10240 and flags NONE. 
+2023-08-15 11:39:56.7862|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 17 with length 10240 and flags NONE. 
+2023-08-15 11:39:56.7862|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 17 with length 10240 and flags NONE. 
+2023-08-15 11:39:56.7862|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 17 with length 10240 and flags NONE. 
+2023-08-15 11:39:56.7862|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 17 with length 10240 and flags NONE. 
+2023-08-15 11:39:56.7862|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 17 with length 10240 and flags NONE. 
+2023-08-15 11:39:56.7862|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 17 with length 10240 and flags NONE. 
+2023-08-15 11:39:56.7862|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 17 with length 10240 and flags NONE. 
+2023-08-15 11:39:56.7862|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 17 with length 10240 and flags NONE. 
+2023-08-15 11:39:56.7862|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 17 with length 10240 and flags NONE. 
+2023-08-15 11:39:56.7862|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 17 with length 10240 and flags NONE. 
+2023-08-15 11:39:56.7862|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 17 with length 160 and flags NONE. 
+2023-08-15 11:39:56.7862|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 17 with length 0 and flags END_STREAM. 
+2023-08-15 11:39:56.7862|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7000/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 17.1622ms 
+2023-08-15 11:39:57.0774|37|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90R" received HEADERS frame for stream ID 3 with length 57 and flags END_STREAM, END_HEADERS, PRIORITY. 
+2023-08-15 11:39:57.0774|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7000/site.webmanifest - - 
+2023-08-15 11:39:57.0774|2|TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2023-08-15 11:39:57.0774|9|DEBUG|Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler|AuthenticationScheme: Identity.Application was not authenticated. 
+2023-08-15 11:39:57.0774|1|INFO|Microsoft.AspNetCore.HttpLogging.HttpLoggingMiddleware|Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /site.webmanifest
+Accept: */*
+Host: localhost:7000
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted] 
+2023-08-15 11:39:57.0774|5|DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path /site.webmanifest does not match an existing file 
+2023-08-15 11:39:57.0774|1000|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|No candidates found for the request path '/site.webmanifest' 
+2023-08-15 11:39:57.0774|2|DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request did not match any endpoints 
+2023-08-15 11:39:57.0774|2|INFO|Microsoft.AspNetCore.HttpLogging.HttpLoggingMiddleware|Response:
+StatusCode: 404 
+2023-08-15 11:39:57.0774|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7000/site.webmanifest - - - 404 0 - 1.0356ms 
+2023-08-15 11:39:57.0774|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90R" sending HEADERS frame for stream ID 3 with length 37 and flags END_STREAM, END_HEADERS. 
+2023-08-15 11:39:57.4626|37|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" received HEADERS frame for stream ID 19 with length 34 and flags END_STREAM, END_HEADERS, PRIORITY. 
+2023-08-15 11:39:57.4626|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7000/App/Verse - - 
+2023-08-15 11:39:57.4626|2|TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2023-08-15 11:39:57.4626|9|DEBUG|Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler|AuthenticationScheme: Identity.Application was not authenticated. 
+2023-08-15 11:39:57.4626|1|INFO|Microsoft.AspNetCore.HttpLogging.HttpLoggingMiddleware|Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /App/Verse
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Host: localhost:7000
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+Cookie: [Redacted]
+Referer: [Redacted]
+Upgrade-Insecure-Requests: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+DNT: 1
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-user: [Redacted]
+sec-fetch-dest: [Redacted] 
+2023-08-15 11:39:57.4626|4|DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path /App/Verse does not match a supported file type 
+2023-08-15 11:39:57.4626|1001|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|1 candidate(s) found for the request path '/App/Verse' 
+2023-08-15 11:39:57.4626|1005|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|Endpoint '/App/Verse' with route pattern 'App/Verse' is valid for the request path '/App/Verse' 
+2023-08-15 11:39:57.4626|1|DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request matched endpoint '/App/Verse' 
+2023-08-15 11:39:57.4626|0|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint '/App/Verse' 
+2023-08-15 11:39:57.4626|7|TRACE|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Could not find a file for view at path '/Pages/App/_ViewStart.cshtml'. 
+2023-08-15 11:39:57.4626|5|TRACE|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Located compiled view for view at path '/Pages/_ViewStart.cshtml'. 
+2023-08-15 11:39:57.4626|7|TRACE|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Could not find a file for view at path '/_ViewStart.cshtml'. 
+2023-08-15 11:39:57.4626|103|INFO|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Route matched with {page = "/App/Verse", area = ""}. Executing page /App/Verse 
+2023-08-15 11:39:57.4626|1|DEBUG|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Execution plan of authorization filters (in the following order): Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.AutoValidateAntiforgeryTokenAuthorizationFilter 
+2023-08-15 11:39:57.4626|1|DEBUG|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Execution plan of resource filters (in the following order): Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter 
+2023-08-15 11:39:57.4626|1|DEBUG|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000) 
+2023-08-15 11:39:57.4626|1|DEBUG|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Execution plan of exception filters (in the following order): None 
+2023-08-15 11:39:57.4626|1|DEBUG|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter 
+2023-08-15 11:39:57.4626|52|TRACE|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Authorization Filter: Before executing OnAuthorizationAsync on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.AutoValidateAntiforgeryTokenAuthorizationFilter. 
+2023-08-15 11:39:57.4626|53|TRACE|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Authorization Filter: After executing OnAuthorizationAsync on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.AutoValidateAntiforgeryTokenAuthorizationFilter. 
+2023-08-15 11:39:57.4626|52|TRACE|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Resource Filter: Before executing OnResourceExecuting on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2023-08-15 11:39:57.4626|53|TRACE|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Resource Filter: After executing OnResourceExecuting on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2023-08-15 11:39:57.4626|101|DEBUG|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Executing page model factory for page StudyCentralV2.Pages.App.Pages_App_Verse (StudyCentralV2) 
+2023-08-15 11:39:57.4822|102|DEBUG|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Executed page model factory for page StudyCentralV2.Pages.App.Pages_App_Verse (StudyCentralV2) 
+2023-08-15 11:39:57.4822|1|TRACE|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Page Filter: Before executing OnPageHandlerSelectionAsync on filter Microsoft.AspNetCore.Mvc.Filters.PageHandlerPageFilter. 
+2023-08-15 11:39:57.4822|2|TRACE|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Page Filter: After executing OnPageHandlerSelectionAsync on filter Microsoft.AspNetCore.Mvc.Filters.PageHandlerPageFilter. 
+2023-08-15 11:39:57.4822|1|TRACE|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Page Filter: Before executing OnPageHandlerSelected on filter Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.HandleOptionsRequestsPageFilter. 
+2023-08-15 11:39:57.4822|1|TRACE|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Page Filter: Before executing OnPageHandlerExecutionAsync on filter Microsoft.AspNetCore.Mvc.Filters.PageHandlerPageFilter. 
+2023-08-15 11:39:57.4822|1|TRACE|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Page Filter: Before executing OnPageHandlerExecuting on filter Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.HandleOptionsRequestsPageFilter. 
+2023-08-15 11:39:57.4822|2|TRACE|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Page Filter: After executing OnPageHandlerExecuting on filter Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.HandleOptionsRequestsPageFilter. 
+2023-08-15 11:39:57.4822|107|INFO|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Executing an implicit handler method - ModelState is Valid 
+2023-08-15 11:39:57.4822|109|INFO|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Executed an implicit handler method, returned result Microsoft.AspNetCore.Mvc.RazorPages.PageResult. 
+2023-08-15 11:39:57.4822|1|TRACE|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Page Filter: Before executing OnPageHandlerExecuted on filter Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.HandleOptionsRequestsPageFilter. 
+2023-08-15 11:39:57.4822|2|TRACE|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Page Filter: After executing OnPageHandlerExecuted on filter Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.HandleOptionsRequestsPageFilter. 
+2023-08-15 11:39:57.4822|2|TRACE|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Page Filter: After executing OnPageHandlerExecutionAsync on filter Microsoft.AspNetCore.Mvc.Filters.PageHandlerPageFilter. 
+2023-08-15 11:39:57.4822|52|TRACE|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Result Filter: Before executing OnResultExecuting on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2023-08-15 11:39:57.4822|53|TRACE|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Result Filter: After executing OnResultExecuting on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2023-08-15 11:39:57.4822|5|TRACE|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Before executing action result Microsoft.AspNetCore.Mvc.RazorPages.PageResult. 
+2023-08-15 11:39:57.4822|31|TRACE|Microsoft.AspNetCore.DataProtection.KeyManagement.KeyRingBasedDataProtector|Performing protect operation to key {87341f2d-3fb2-46a8-9c17-b1ee00647ea0} with purposes ('C:\Users\JackB\Documents\StudyCentralV2\', 'Microsoft.AspNetCore.Antiforgery.AntiforgeryToken.v1'). 
+2023-08-15 11:39:57.4822|31|TRACE|Microsoft.AspNetCore.DataProtection.KeyManagement.KeyRingBasedDataProtector|Performing protect operation to key {87341f2d-3fb2-46a8-9c17-b1ee00647ea0} with purposes ('C:\Users\JackB\Documents\StudyCentralV2\', 'Microsoft.AspNetCore.Antiforgery.AntiforgeryToken.v1'). 
+2023-08-15 11:39:57.4903|5|DEBUG|Microsoft.AspNetCore.Antiforgery.DefaultAntiforgery|A new antiforgery cookie token was created. 
+2023-08-15 11:39:58.5689|1|DEBUG|Microsoft.AspNetCore.Mvc.Razor.RazorViewEngine|View lookup cache miss for view '_Layout' in controller '(null)'. 
+2023-08-15 11:39:58.5689|7|TRACE|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Could not find a file for view at path '/Pages/App/_Layout.cshtml'. 
+2023-08-15 11:39:58.5689|7|TRACE|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Could not find a file for view at path '/Pages/_Layout.cshtml'. 
+2023-08-15 11:39:58.5689|5|TRACE|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Located compiled view for view at path '/Pages/Shared/_Layout.cshtml'. 
+2023-08-15 11:39:58.5689|100|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints /Index for address (area=[],page=[/Index]) 
+2023-08-15 11:39:58.5689|102|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template  for /Index resulting in  and  
+2023-08-15 11:39:58.5689|105|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints /Index with result / 
+2023-08-15 11:39:58.5689|100|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints /Index for address (area=[],page=[/Index]) 
+2023-08-15 11:39:58.5689|102|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template  for /Index resulting in  and  
+2023-08-15 11:39:58.5689|105|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints /Index with result / 
+2023-08-15 11:39:58.5689|100|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints /App/Creator for address (area=[],page=[/App/Creator]) 
+2023-08-15 11:39:58.5689|102|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template App/Creator for /App/Creator resulting in /App/Creator and  
+2023-08-15 11:39:58.5689|105|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints /App/Creator with result /App/Creator 
+2023-08-15 11:39:58.5689|100|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints /App/Breakdown for address (area=[],page=[/App/Breakdown]) 
+2023-08-15 11:39:58.5689|102|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template App/Breakdown for /App/Breakdown resulting in /App/Breakdown and  
+2023-08-15 11:39:58.5689|105|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints /App/Breakdown with result /App/Breakdown 
+2023-08-15 11:39:58.5689|100|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints /App/Verse for address (area=[],page=[/App/Verse]) 
+2023-08-15 11:39:58.5689|102|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template App/Verse for /App/Verse resulting in /App/Verse and  
+2023-08-15 11:39:58.5689|105|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints /App/Verse with result /App/Verse 
+2023-08-15 11:39:58.5689|100|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints /App/Ask for address (area=[],page=[/App/Ask]) 
+2023-08-15 11:39:58.5689|102|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template App/Ask for /App/Ask resulting in /App/Ask and  
+2023-08-15 11:39:58.5689|105|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints /App/Ask with result /App/Ask 
+2023-08-15 11:39:58.5689|100|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints /Privacy for address (area=[],page=[/Privacy]) 
+2023-08-15 11:39:58.5689|102|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template Privacy for /Privacy resulting in /Privacy and  
+2023-08-15 11:39:58.5689|105|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints /Privacy with result /Privacy 
+2023-08-15 11:39:58.5689|1|DEBUG|Microsoft.AspNetCore.Mvc.Razor.RazorViewEngine|View lookup cache miss for view '_LoginPartial' in controller '(null)'. 
+2023-08-15 11:39:58.5689|7|TRACE|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Could not find a file for view at path '/Pages/App/_LoginPartial.cshtml'. 
+2023-08-15 11:39:58.5689|7|TRACE|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Could not find a file for view at path '/Pages/_LoginPartial.cshtml'. 
+2023-08-15 11:39:58.5689|5|TRACE|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Located compiled view for view at path '/Pages/Shared/_LoginPartial.cshtml'. 
+2023-08-15 11:39:58.5689|100|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints /Account/Register for address (area=[Identity],page=[/Account/Register]) 
+2023-08-15 11:39:58.5689|102|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template Identity/Account/Register for /Account/Register resulting in /Identity/Account/Register and  
+2023-08-15 11:39:58.5689|105|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints /Account/Register with result /Identity/Account/Register 
+2023-08-15 11:39:58.5689|100|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints /Account/Login for address (area=[Identity],page=[/Account/Login]) 
+2023-08-15 11:39:58.5689|102|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template Identity/Account/Login for /Account/Login resulting in /Identity/Account/Login and  
+2023-08-15 11:39:58.5689|105|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints /Account/Login with result /Identity/Account/Login 
+2023-08-15 11:39:58.5689|100|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints /Privacy for address (area=[],page=[/Privacy]) 
+2023-08-15 11:39:58.5689|102|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template Privacy for /Privacy resulting in /Privacy and  
+2023-08-15 11:39:58.5689|105|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints /Privacy with result /Privacy 
+2023-08-15 11:39:58.5689|1|DEBUG|Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware|Response markup is scheduled to include browser refresh script injection. 
+2023-08-15 11:39:58.5689|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending HEADERS frame for stream ID 19 with length 329 and flags END_HEADERS. 
+2023-08-15 11:39:58.5904|6|TRACE|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|After executing action result Microsoft.AspNetCore.Mvc.RazorPages.PageResult. 
+2023-08-15 11:39:58.5904|52|TRACE|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Result Filter: Before executing OnResultExecuted on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2023-08-15 11:39:58.5904|53|TRACE|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Result Filter: After executing OnResultExecuted on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2023-08-15 11:39:58.5904|52|TRACE|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Resource Filter: Before executing OnResourceExecuted on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2023-08-15 11:39:58.5904|53|TRACE|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Resource Filter: After executing OnResourceExecuted on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2023-08-15 11:39:58.6054|104|INFO|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Executed page /App/Verse in 1136.7395ms 
+2023-08-15 11:39:58.6054|1|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint '/App/Verse' 
+2023-08-15 11:39:58.6054|2|INFO|Microsoft.AspNetCore.HttpLogging.HttpLoggingMiddleware|Response:
+StatusCode: 200
+Content-Type: text/html; charset=utf-8
+Date: Tue, 15 Aug 2023 10:39:58 GMT
+Server: Kestrel
+Cache-Control: [Redacted]
+Pragma: [Redacted]
+Set-Cookie: [Redacted]
+X-Frame-Options: [Redacted] 
+2023-08-15 11:39:58.6054|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 19 with length 1024 and flags NONE. 
+2023-08-15 11:39:58.6054|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 19 with length 2048 and flags NONE. 
+2023-08-15 11:39:58.6054|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 19 with length 4096 and flags NONE. 
+2023-08-15 11:39:58.6054|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 19 with length 1024 and flags NONE. 
+2023-08-15 11:39:58.6054|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 19 with length 3072 and flags NONE. 
+2023-08-15 11:39:58.6054|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 19 with length 1024 and flags NONE. 
+2023-08-15 11:39:58.6145|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 19 with length 3072 and flags NONE. 
+2023-08-15 11:39:58.6145|37|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" received WINDOW_UPDATE frame for stream ID 0 with length 4 and flags 0x0. 
+2023-08-15 11:39:58.6145|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 19 with length 1024 and flags NONE. 
+2023-08-15 11:39:58.6145|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 19 with length 2048 and flags NONE. 
+2023-08-15 11:39:58.6145|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 19 with length 2048 and flags NONE. 
+2023-08-15 11:39:58.6145|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 19 with length 4096 and flags NONE. 
+2023-08-15 11:39:58.6145|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 19 with length 1024 and flags NONE. 
+2023-08-15 11:39:58.6145|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 19 with length 3072 and flags NONE. 
+2023-08-15 11:39:58.6145|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 19 with length 3072 and flags NONE. 
+2023-08-15 11:39:58.6145|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 19 with length 1024 and flags NONE. 
+2023-08-15 11:39:58.6145|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 19 with length 4096 and flags NONE. 
+2023-08-15 11:39:58.6145|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 19 with length 2048 and flags NONE. 
+2023-08-15 11:39:58.6145|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 19 with length 2048 and flags NONE. 
+2023-08-15 11:39:58.6145|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 19 with length 676 and flags NONE. 
+2023-08-15 11:39:58.6145|2|DEBUG|Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware|Response markup was updated to include browser refresh script injection. 
+2023-08-15 11:39:58.6145|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 19 with length 0 and flags END_STREAM. 
+2023-08-15 11:39:58.6145|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7000/App/Verse - - - 200 - text/html;+charset=utf-8 1156.3967ms 
+2023-08-15 11:39:58.6595|37|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" received HEADERS frame for stream ID 21 with length 232 and flags END_STREAM, END_HEADERS, PRIORITY. 
+2023-08-15 11:39:58.6595|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7000/_framework/aspnetcore-browser-refresh.js - - 
+2023-08-15 11:39:58.6595|37|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" received HEADERS frame for stream ID 23 with length 61 and flags END_STREAM, END_HEADERS, PRIORITY. 
+2023-08-15 11:39:58.6611|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7000/_vs/browserLink - - 
+2023-08-15 11:39:58.6611|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending HEADERS frame for stream ID 21 with length 13 and flags END_HEADERS. 
+2023-08-15 11:39:58.6611|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 21 with length 12360 and flags NONE. 
+2023-08-15 11:39:58.6611|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 21 with length 0 and flags END_STREAM. 
+2023-08-15 11:39:58.6611|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7000/_framework/aspnetcore-browser-refresh.js - - - 200 12360 application/javascript;+charset=utf-8 1.2770ms 
+2023-08-15 11:39:58.6611|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending HEADERS frame for stream ID 23 with length 66 and flags END_HEADERS. 
+2023-08-15 11:39:58.6611|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 23 with length 9986 and flags NONE. 
+2023-08-15 11:39:58.6611|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 23 with length 10240 and flags NONE. 
+2023-08-15 11:39:58.6611|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 23 with length 10240 and flags NONE. 
+2023-08-15 11:39:58.6611|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 23 with length 10240 and flags NONE. 
+2023-08-15 11:39:58.6611|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 23 with length 10240 and flags NONE. 
+2023-08-15 11:39:58.6611|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 23 with length 10240 and flags NONE. 
+2023-08-15 11:39:58.6611|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 23 with length 10240 and flags NONE. 
+2023-08-15 11:39:58.6611|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 23 with length 10240 and flags NONE. 
+2023-08-15 11:39:58.6611|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 23 with length 10240 and flags NONE. 
+2023-08-15 11:39:58.6611|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 23 with length 10240 and flags NONE. 
+2023-08-15 11:39:58.6611|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 23 with length 10240 and flags NONE. 
+2023-08-15 11:39:58.6611|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 23 with length 10240 and flags NONE. 
+2023-08-15 11:39:58.6611|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 23 with length 10240 and flags NONE. 
+2023-08-15 11:39:58.6611|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 23 with length 10240 and flags NONE. 
+2023-08-15 11:39:58.6611|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 23 with length 10240 and flags NONE. 
+2023-08-15 11:39:58.6611|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 23 with length 160 and flags NONE. 
+2023-08-15 11:39:58.6611|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 23 with length 0 and flags END_STREAM. 
+2023-08-15 11:39:58.6611|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7000/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 8.6808ms 
+2023-08-15 11:39:58.7585|37|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90R" received HEADERS frame for stream ID 5 with length 58 and flags END_STREAM, END_HEADERS, PRIORITY. 
+2023-08-15 11:39:58.7585|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7000/site.webmanifest - - 
+2023-08-15 11:39:58.7585|2|TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2023-08-15 11:39:58.7585|9|DEBUG|Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler|AuthenticationScheme: Identity.Application was not authenticated. 
+2023-08-15 11:39:58.7585|1|INFO|Microsoft.AspNetCore.HttpLogging.HttpLoggingMiddleware|Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /site.webmanifest
+Accept: */*
+Host: localhost:7000
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted] 
+2023-08-15 11:39:58.7585|5|DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path /site.webmanifest does not match an existing file 
+2023-08-15 11:39:58.7585|1000|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|No candidates found for the request path '/site.webmanifest' 
+2023-08-15 11:39:58.7585|2|DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request did not match any endpoints 
+2023-08-15 11:39:58.7585|2|INFO|Microsoft.AspNetCore.HttpLogging.HttpLoggingMiddleware|Response:
+StatusCode: 404 
+2023-08-15 11:39:58.7585|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7000/site.webmanifest - - - 404 0 - 1.3771ms 
+2023-08-15 11:39:58.7585|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90R" sending HEADERS frame for stream ID 5 with length 37 and flags END_STREAM, END_HEADERS. 
+2023-08-15 11:40:08.5347|37|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" received HEADERS frame for stream ID 25 with length 98 and flags END_HEADERS, PRIORITY. 
+2023-08-15 11:40:08.5347|37|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" received DATA frame for stream ID 25 with length 251 and flags END_STREAM. 
+2023-08-15 11:40:08.5347|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 POST https://localhost:7000/App/Verse application/x-www-form-urlencoded 251 
+2023-08-15 11:40:08.5364|2|TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2023-08-15 11:40:08.5364|9|DEBUG|Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler|AuthenticationScheme: Identity.Application was not authenticated. 
+2023-08-15 11:40:08.5364|1|INFO|Microsoft.AspNetCore.HttpLogging.HttpLoggingMiddleware|Request:
+Protocol: HTTP/2
+Method: POST
+Scheme: https
+PathBase: 
+Path: /App/Verse
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Host: localhost:7000
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+Cache-Control: max-age=0
+Content-Type: application/x-www-form-urlencoded
+Cookie: [Redacted]
+Origin: [Redacted]
+Referer: [Redacted]
+Upgrade-Insecure-Requests: [Redacted]
+Content-Length: 251
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+DNT: 1
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-user: [Redacted]
+sec-fetch-dest: [Redacted] 
+2023-08-15 11:40:08.5364|1|DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|POST requests are not supported 
+2023-08-15 11:40:08.5364|1001|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|1 candidate(s) found for the request path '/App/Verse' 
+2023-08-15 11:40:08.5364|1005|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|Endpoint '/App/Verse' with route pattern 'App/Verse' is valid for the request path '/App/Verse' 
+2023-08-15 11:40:08.5364|1|DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request matched endpoint '/App/Verse' 
+2023-08-15 11:40:08.5364|0|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint '/App/Verse' 
+2023-08-15 11:40:08.5364|103|INFO|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Route matched with {page = "/App/Verse", area = ""}. Executing page /App/Verse 
+2023-08-15 11:40:08.5364|1|DEBUG|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Execution plan of authorization filters (in the following order): Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.AutoValidateAntiforgeryTokenAuthorizationFilter 
+2023-08-15 11:40:08.5364|1|DEBUG|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Execution plan of resource filters (in the following order): Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter 
+2023-08-15 11:40:08.5364|1|DEBUG|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000) 
+2023-08-15 11:40:08.5364|1|DEBUG|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Execution plan of exception filters (in the following order): None 
+2023-08-15 11:40:08.5364|1|DEBUG|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter 
+2023-08-15 11:40:08.5364|52|TRACE|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Authorization Filter: Before executing OnAuthorizationAsync on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.AutoValidateAntiforgeryTokenAuthorizationFilter. 
+2023-08-15 11:40:08.5364|25|DEBUG|Microsoft.AspNetCore.Server.Kestrel|Connection id "0HMSTFFQGN90Q", Request id "0HMSTFFQGN90Q:00000019": started reading request body. 
+2023-08-15 11:40:08.5364|26|DEBUG|Microsoft.AspNetCore.Server.Kestrel|Connection id "0HMSTFFQGN90Q", Request id "0HMSTFFQGN90Q:00000019": done reading request body. 
+2023-08-15 11:40:08.5364|5|TRACE|Microsoft.AspNetCore.DataProtection.KeyManagement.KeyRingBasedDataProtector|Performing unprotect operation to key {87341f2d-3fb2-46a8-9c17-b1ee00647ea0} with purposes ('C:\Users\JackB\Documents\StudyCentralV2\', 'Microsoft.AspNetCore.Antiforgery.AntiforgeryToken.v1'). 
+2023-08-15 11:40:08.5364|5|TRACE|Microsoft.AspNetCore.DataProtection.KeyManagement.KeyRingBasedDataProtector|Performing unprotect operation to key {87341f2d-3fb2-46a8-9c17-b1ee00647ea0} with purposes ('C:\Users\JackB\Documents\StudyCentralV2\', 'Microsoft.AspNetCore.Antiforgery.AntiforgeryToken.v1'). 
+2023-08-15 11:40:08.5364|2|DEBUG|Microsoft.AspNetCore.Antiforgery.DefaultAntiforgery|Antiforgery successfully validated a request. 
+2023-08-15 11:40:08.5364|53|TRACE|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Authorization Filter: After executing OnAuthorizationAsync on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.AutoValidateAntiforgeryTokenAuthorizationFilter. 
+2023-08-15 11:40:08.5364|52|TRACE|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Resource Filter: Before executing OnResourceExecuting on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2023-08-15 11:40:08.5364|53|TRACE|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Resource Filter: After executing OnResourceExecuting on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2023-08-15 11:40:08.5364|101|DEBUG|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Executing page model factory for page StudyCentralV2.Pages.App.Pages_App_Verse (StudyCentralV2) 
+2023-08-15 11:40:08.5550|102|DEBUG|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Executed page model factory for page StudyCentralV2.Pages.App.Pages_App_Verse (StudyCentralV2) 
+2023-08-15 11:40:08.5550|1|TRACE|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Page Filter: Before executing OnPageHandlerSelectionAsync on filter Microsoft.AspNetCore.Mvc.Filters.PageHandlerPageFilter. 
+2023-08-15 11:40:08.5550|2|TRACE|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Page Filter: After executing OnPageHandlerSelectionAsync on filter Microsoft.AspNetCore.Mvc.Filters.PageHandlerPageFilter. 
+2023-08-15 11:40:08.5550|1|TRACE|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Page Filter: Before executing OnPageHandlerSelected on filter Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.HandleOptionsRequestsPageFilter. 
+2023-08-15 11:40:08.5550|1|TRACE|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Page Filter: Before executing OnPageHandlerExecutionAsync on filter Microsoft.AspNetCore.Mvc.Filters.PageHandlerPageFilter. 
+2023-08-15 11:40:08.5550|1|TRACE|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Page Filter: Before executing OnPageHandlerExecuting on filter Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.HandleOptionsRequestsPageFilter. 
+2023-08-15 11:40:08.5550|2|TRACE|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Page Filter: After executing OnPageHandlerExecuting on filter Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.HandleOptionsRequestsPageFilter. 
+2023-08-15 11:40:08.5550|105|INFO|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Executing handler method StudyCentralV2.Pages.App.VerseModel.OnPost - ModelState is Valid 
+2023-08-15 11:40:08.5550|108|INFO|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Executed handler method OnPost, returned result Microsoft.AspNetCore.Mvc.RazorPages.PageResult. 
+2023-08-15 11:40:08.5550|1|TRACE|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Page Filter: Before executing OnPageHandlerExecuted on filter Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.HandleOptionsRequestsPageFilter. 
+2023-08-15 11:40:08.5550|2|TRACE|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Page Filter: After executing OnPageHandlerExecuted on filter Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.HandleOptionsRequestsPageFilter. 
+2023-08-15 11:40:08.5550|2|TRACE|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Page Filter: After executing OnPageHandlerExecutionAsync on filter Microsoft.AspNetCore.Mvc.Filters.PageHandlerPageFilter. 
+2023-08-15 11:40:08.5550|52|TRACE|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Result Filter: Before executing OnResultExecuting on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2023-08-15 11:40:08.5550|53|TRACE|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Result Filter: After executing OnResultExecuting on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2023-08-15 11:40:08.5550|5|TRACE|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Before executing action result Microsoft.AspNetCore.Mvc.RazorPages.PageResult. 
+2023-08-15 11:40:08.5550|31|TRACE|Microsoft.AspNetCore.DataProtection.KeyManagement.KeyRingBasedDataProtector|Performing protect operation to key {87341f2d-3fb2-46a8-9c17-b1ee00647ea0} with purposes ('C:\Users\JackB\Documents\StudyCentralV2\', 'Microsoft.AspNetCore.Antiforgery.AntiforgeryToken.v1'). 
+2023-08-15 11:40:08.5550|6|DEBUG|Microsoft.AspNetCore.Antiforgery.DefaultAntiforgery|An antiforgery cookie token was reused. 
+2023-08-15 11:40:09.4822|2|DEBUG|Microsoft.AspNetCore.Mvc.Razor.RazorViewEngine|View lookup cache hit for view '_Layout' in controller '(null)'. 
+2023-08-15 11:40:09.4822|100|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints /Index for address (area=[],page=[/Index]) 
+2023-08-15 11:40:09.4822|102|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template  for /Index resulting in  and  
+2023-08-15 11:40:09.4822|105|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints /Index with result / 
+2023-08-15 11:40:09.4822|100|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints /Index for address (area=[],page=[/Index]) 
+2023-08-15 11:40:09.4822|102|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template  for /Index resulting in  and  
+2023-08-15 11:40:09.4822|105|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints /Index with result / 
+2023-08-15 11:40:09.4822|100|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints /App/Creator for address (area=[],page=[/App/Creator]) 
+2023-08-15 11:40:09.4822|102|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template App/Creator for /App/Creator resulting in /App/Creator and  
+2023-08-15 11:40:09.4822|105|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints /App/Creator with result /App/Creator 
+2023-08-15 11:40:09.4822|100|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints /App/Breakdown for address (area=[],page=[/App/Breakdown]) 
+2023-08-15 11:40:09.4822|102|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template App/Breakdown for /App/Breakdown resulting in /App/Breakdown and  
+2023-08-15 11:40:09.4822|105|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints /App/Breakdown with result /App/Breakdown 
+2023-08-15 11:40:09.4822|100|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints /App/Verse for address (area=[],page=[/App/Verse]) 
+2023-08-15 11:40:09.4822|102|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template App/Verse for /App/Verse resulting in /App/Verse and  
+2023-08-15 11:40:09.4822|105|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints /App/Verse with result /App/Verse 
+2023-08-15 11:40:09.4822|100|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints /App/Ask for address (area=[],page=[/App/Ask]) 
+2023-08-15 11:40:09.4822|102|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template App/Ask for /App/Ask resulting in /App/Ask and  
+2023-08-15 11:40:09.4822|105|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints /App/Ask with result /App/Ask 
+2023-08-15 11:40:09.4822|100|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints /Privacy for address (area=[],page=[/Privacy]) 
+2023-08-15 11:40:09.4822|102|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template Privacy for /Privacy resulting in /Privacy and  
+2023-08-15 11:40:09.4822|105|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints /Privacy with result /Privacy 
+2023-08-15 11:40:09.4822|2|DEBUG|Microsoft.AspNetCore.Mvc.Razor.RazorViewEngine|View lookup cache hit for view '_LoginPartial' in controller '(null)'. 
+2023-08-15 11:40:09.4822|100|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints /Account/Register for address (area=[Identity],page=[/Account/Register]) 
+2023-08-15 11:40:09.4822|102|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template Identity/Account/Register for /Account/Register resulting in /Identity/Account/Register and  
+2023-08-15 11:40:09.4822|105|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints /Account/Register with result /Identity/Account/Register 
+2023-08-15 11:40:09.4822|100|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints /Account/Login for address (area=[Identity],page=[/Account/Login]) 
+2023-08-15 11:40:09.4822|102|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template Identity/Account/Login for /Account/Login resulting in /Identity/Account/Login and  
+2023-08-15 11:40:09.4822|105|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints /Account/Login with result /Identity/Account/Login 
+2023-08-15 11:40:09.4822|100|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints /Privacy for address (area=[],page=[/Privacy]) 
+2023-08-15 11:40:09.4822|102|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template Privacy for /Privacy resulting in /Privacy and  
+2023-08-15 11:40:09.4822|105|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints /Privacy with result /Privacy 
+2023-08-15 11:40:09.4822|1|DEBUG|Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware|Response markup is scheduled to include browser refresh script injection. 
+2023-08-15 11:40:09.4822|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending HEADERS frame for stream ID 25 with length 36 and flags END_HEADERS. 
+2023-08-15 11:40:09.4929|6|TRACE|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|After executing action result Microsoft.AspNetCore.Mvc.RazorPages.PageResult. 
+2023-08-15 11:40:09.4929|52|TRACE|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Result Filter: Before executing OnResultExecuted on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2023-08-15 11:40:09.4929|53|TRACE|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Result Filter: After executing OnResultExecuted on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2023-08-15 11:40:09.4929|52|TRACE|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Resource Filter: Before executing OnResourceExecuted on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2023-08-15 11:40:09.4929|53|TRACE|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Resource Filter: After executing OnResourceExecuted on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2023-08-15 11:40:09.4929|104|INFO|Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker|Executed page /App/Verse in 967.4489ms 
+2023-08-15 11:40:09.4929|1|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint '/App/Verse' 
+2023-08-15 11:40:09.4929|2|INFO|Microsoft.AspNetCore.HttpLogging.HttpLoggingMiddleware|Response:
+StatusCode: 200
+Content-Type: text/html; charset=utf-8
+Date: Tue, 15 Aug 2023 10:40:09 GMT
+Server: Kestrel
+Cache-Control: [Redacted]
+Pragma: [Redacted] 
+2023-08-15 11:40:09.5073|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 25 with length 2048 and flags NONE. 
+2023-08-15 11:40:09.5073|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 25 with length 2048 and flags NONE. 
+2023-08-15 11:40:09.5073|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 25 with length 2048 and flags NONE. 
+2023-08-15 11:40:09.5073|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 25 with length 2048 and flags NONE. 
+2023-08-15 11:40:09.5073|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 25 with length 3072 and flags NONE. 
+2023-08-15 11:40:09.5073|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 25 with length 1024 and flags NONE. 
+2023-08-15 11:40:09.5073|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 25 with length 3072 and flags NONE. 
+2023-08-15 11:40:09.5073|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 25 with length 1024 and flags NONE. 
+2023-08-15 11:40:09.5073|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 25 with length 2048 and flags NONE. 
+2023-08-15 11:40:09.5073|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 25 with length 2048 and flags NONE. 
+2023-08-15 11:40:09.5073|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 25 with length 2048 and flags NONE. 
+2023-08-15 11:40:09.5073|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 25 with length 2048 and flags NONE. 
+2023-08-15 11:40:09.5073|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 25 with length 1980 and flags NONE. 
+2023-08-15 11:40:09.5073|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 25 with length 2116 and flags NONE. 
+2023-08-15 11:40:09.5073|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 25 with length 4096 and flags NONE. 
+2023-08-15 11:40:09.5073|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 25 with length 2048 and flags NONE. 
+2023-08-15 11:40:09.5073|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 25 with length 2048 and flags NONE. 
+2023-08-15 11:40:09.5073|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 25 with length 3072 and flags NONE. 
+2023-08-15 11:40:09.5073|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 25 with length 1024 and flags NONE. 
+2023-08-15 11:40:09.5073|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 25 with length 2048 and flags NONE. 
+2023-08-15 11:40:09.5073|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 25 with length 1798 and flags NONE. 
+2023-08-15 11:40:09.5073|2|DEBUG|Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware|Response markup was updated to include browser refresh script injection. 
+2023-08-15 11:40:09.5073|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 25 with length 0 and flags END_STREAM. 
+2023-08-15 11:40:09.5073|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 POST https://localhost:7000/App/Verse application/x-www-form-urlencoded 251 - 200 - text/html;+charset=utf-8 979.2626ms 
+2023-08-15 11:40:09.5073|37|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" received WINDOW_UPDATE frame for stream ID 0 with length 4 and flags 0x0. 
+2023-08-15 11:40:09.5073|37|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" received HEADERS frame for stream ID 27 with length 61 and flags END_STREAM, END_HEADERS, PRIORITY. 
+2023-08-15 11:40:09.5073|37|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" received HEADERS frame for stream ID 29 with length 55 and flags END_STREAM, END_HEADERS, PRIORITY. 
+2023-08-15 11:40:09.5073|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7000/_vs/browserLink - - 
+2023-08-15 11:40:09.5073|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7000/_framework/aspnetcore-browser-refresh.js - - 
+2023-08-15 11:40:09.5206|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending HEADERS frame for stream ID 29 with length 13 and flags END_HEADERS. 
+2023-08-15 11:40:09.5206|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 29 with length 12360 and flags NONE. 
+2023-08-15 11:40:09.5206|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 29 with length 0 and flags END_STREAM. 
+2023-08-15 11:40:09.5206|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7000/_framework/aspnetcore-browser-refresh.js - - - 200 12360 application/javascript;+charset=utf-8 1.3691ms 
+2023-08-15 11:40:09.5206|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending HEADERS frame for stream ID 27 with length 66 and flags END_HEADERS. 
+2023-08-15 11:40:09.5206|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 27 with length 9986 and flags NONE. 
+2023-08-15 11:40:09.5206|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 27 with length 10240 and flags NONE. 
+2023-08-15 11:40:09.5206|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 27 with length 10240 and flags NONE. 
+2023-08-15 11:40:09.5206|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 27 with length 10240 and flags NONE. 
+2023-08-15 11:40:09.5206|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 27 with length 10240 and flags NONE. 
+2023-08-15 11:40:09.5206|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 27 with length 10240 and flags NONE. 
+2023-08-15 11:40:09.5206|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 27 with length 10240 and flags NONE. 
+2023-08-15 11:40:09.5206|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 27 with length 10240 and flags NONE. 
+2023-08-15 11:40:09.5206|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 27 with length 10240 and flags NONE. 
+2023-08-15 11:40:09.5206|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 27 with length 10240 and flags NONE. 
+2023-08-15 11:40:09.5206|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 27 with length 10240 and flags NONE. 
+2023-08-15 11:40:09.5206|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 27 with length 10240 and flags NONE. 
+2023-08-15 11:40:09.5206|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 27 with length 10240 and flags NONE. 
+2023-08-15 11:40:09.5206|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 27 with length 10240 and flags NONE. 
+2023-08-15 11:40:09.5206|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 27 with length 10240 and flags NONE. 
+2023-08-15 11:40:09.5206|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 27 with length 160 and flags NONE. 
+2023-08-15 11:40:09.5206|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90Q" sending DATA frame for stream ID 27 with length 0 and flags END_STREAM. 
+2023-08-15 11:40:09.5206|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7000/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 7.6859ms 
+2023-08-15 11:40:09.6002|37|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90R" received HEADERS frame for stream ID 7 with length 34 and flags END_STREAM, END_HEADERS, PRIORITY. 
+2023-08-15 11:40:09.6002|37|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90R" received PING frame for stream ID 0 with length 8 and flags NONE. 
+2023-08-15 11:40:09.6002|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7000/site.webmanifest - - 
+2023-08-15 11:40:09.6002|2|TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2023-08-15 11:40:09.6002|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90R" sending PING frame for stream ID 0 with length 8 and flags ACK. 
+2023-08-15 11:40:09.6002|9|DEBUG|Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler|AuthenticationScheme: Identity.Application was not authenticated. 
+2023-08-15 11:40:09.6002|1|INFO|Microsoft.AspNetCore.HttpLogging.HttpLoggingMiddleware|Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /site.webmanifest
+Accept: */*
+Host: localhost:7000
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted] 
+2023-08-15 11:40:09.6002|5|DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path /site.webmanifest does not match an existing file 
+2023-08-15 11:40:09.6002|1000|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|No candidates found for the request path '/site.webmanifest' 
+2023-08-15 11:40:09.6002|2|DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request did not match any endpoints 
+2023-08-15 11:40:09.6002|2|INFO|Microsoft.AspNetCore.HttpLogging.HttpLoggingMiddleware|Response:
+StatusCode: 404 
+2023-08-15 11:40:09.6002|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7000/site.webmanifest - - - 404 0 - 1.3033ms 
+2023-08-15 11:40:09.6002|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HMSTFFQGN90R" sending HEADERS frame for stream ID 7 with length 37 and flags END_STREAM, END_HEADERS. 

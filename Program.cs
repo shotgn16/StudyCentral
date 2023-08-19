@@ -1,6 +1,13 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using NLog;
+using NLog.Config;
+using NLog.Extensions.Logging;
+using NLog.Fluent;
+using NLog.Targets;
+using NLog.Web;
 using StudyCentralV2.Data;
+using ILogger = Microsoft.Extensions.Logging.ILogger;
 
 namespace StudyCentralV2
 {
@@ -8,44 +15,65 @@ namespace StudyCentralV2
     {
         public static void Main(string[] args)
         {
-            var builder = WebApplication.CreateBuilder(args);
+            var logger = NLog.LogManager.Setup().LoadConfigurationFromAppSettings().GetCurrentClassLogger();
 
-            // Add services to the container.
-            var connectionString = builder.Configuration.GetConnectionString("LocalConnection") ?? throw new InvalidOperationException("Connection string 'LocalConnection' not found.");
-            builder.Services.AddDbContext<ApplicationDbContext>(options =>
-                options.UseSqlServer(connectionString));
-            builder.Services.AddDatabaseDeveloperPageExceptionFilter();
-
-            builder.Services.AddHttpClient();
-
-            builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
-                .AddEntityFrameworkStores<ApplicationDbContext>();
-            builder.Services.AddRazorPages();
-
-            var app = builder.Build();
-
-            // Configure the HTTP request pipeline.
-            if (app.Environment.IsDevelopment())
+            try
             {
-                app.UseMigrationsEndPoint();
+                var builder = WebApplication.CreateBuilder(args);
+                //builder.Services.AddTransient<IEmailSender, EmailSender>();;
+
+                builder.Host.UseNLog();
+
+                // Add services to the container.
+                var connectionString = "server=localhost;user id=SCDBUser;password=VQca75F00!RCBH7T;database=studycentral";
+                builder.Services.AddDbContext<ApplicationDbContext>(options => options
+                    .UseMySql(connectionString, new MySqlServerVersion(new Version(5, 2, 1))));
+
+                builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
+                    .AddEntityFrameworkStores<ApplicationDbContext>();
+
+                builder.Services.AddDatabaseDeveloperPageExceptionFilter();
+
+                builder.Services.AddHttpClient();
+                builder.Services.AddRazorPages();
+
+                var app = builder.Build();
+
+                app.UseHttpLogging();
+
+                // Configure the HTTP request pipeline.
+                if (app.Environment.IsDevelopment())
+                {
+                    app.UseMigrationsEndPoint();
+                }
+                else
+                {
+                    app.UseExceptionHandler("/Error");
+                    // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
+                    app.UseHsts();
+                }
+
+                app.UseHttpsRedirection();
+                app.UseStaticFiles();
+
+                app.UseRouting();
+
+                app.UseAuthorization();
+
+                app.MapRazorPages();
+
+                app.Run();
             }
-            else
+
+            catch (Exception ex)
             {
-                app.UseExceptionHandler("/Error");
-                // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
-                app.UseHsts();
+                throw;
             }
 
-            app.UseHttpsRedirection();
-            app.UseStaticFiles();
-
-            app.UseRouting();
-
-            app.UseAuthorization();
-
-            app.MapRazorPages();
-
-            app.Run();
+            finally
+            {
+                NLog.LogManager.Shutdown();
+            }
         }
     }
 }

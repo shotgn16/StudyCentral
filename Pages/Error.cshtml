@@ -4,23 +4,67 @@
     ViewData["Title"] = "Error";
 }
 
-<h1 class="text-danger">Error.</h1>
-<h2 class="text-danger">An error occurred while processing your request.</h2>
+<style>
+    .flex-container {
+        display: flex;
+        flex-wrap: wrap;
+    }
 
-@if (Model.ShowRequestId)
-{
-    <p>
-        <strong>Request ID:</strong> <code>@Model.RequestId</code>
-    </p>
-}
+    .item {
+        flex-basis: 100.00%;
+        /* border: 1px solid #FFA629; */
+        text-align: center;
+    }
 
-<h3>Development Mode</h3>
-<p>
-    Swapping to the <strong>Development</strong> environment displays detailed information about the error that occurred.
-</p>
-<p>
-    <strong>The Development environment shouldn't be enabled for deployed applications.</strong>
-    It can result in displaying sensitive information from exceptions to end users.
-    For local debugging, enable the <strong>Development</strong> environment by setting the <strong>ASPNETCORE_ENVIRONMENT</strong> environment variable to <strong>Development</strong>
-    and restarting the app.
-</p>
+    .item-1 {
+        flex-basis: 100%;
+        padding: 5%;
+    }
+
+    #title {
+        font-size: 500%;
+    }
+
+    .item-2 {
+        display: flex;
+        justify-content: center;
+        flex-basis: 100.00%;
+        padding: 5%;
+    }
+
+    .pulse-container {
+        width: 120px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .pulse-bubble {
+        width: 20px;
+        height: 20px;
+        border-radius: 50%;
+        background-color: #FFA629;
+    }
+
+    .pulse-bubble-1 {
+        animation: pulse .4s ease 0s infinite alternate;
+    }
+
+    .pulse-bubble-2 {
+        animation: pulse .4s ease .2s infinite alternate;
+    }
+
+    .pulse-bubble-3 {
+        animation: pulse .4s ease .4s infinite alternate;
+    }
+</style>
+
+<div class="flex-container">
+    <div class="item item-1">
+        <h1 id="title">Error</h1>
+        <p>Oops, looks like we've git a brick wall here. Why don't you go and get yourself a drink while we work on fixing this. :)</p>
+    </div>
+    <div class="item item-2">
+        <p>@ErrorModel.RequestId</p>
+    </div>
+</div>
